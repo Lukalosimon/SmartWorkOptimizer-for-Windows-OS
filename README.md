@@ -1,5 +1,7 @@
 # SmartWorkOptimizer for Windows OS
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 SmartWorkOptimizer collects lightweight telemetry (heartbeats), monitors the active
 application and system metrics, and generates an HTML dashboard report.
 
@@ -33,6 +35,9 @@ in the `logs/` folder).
 
 ## Author
 Simon Lukalo — lukalosp@gmail.com
+
+## License
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 Feel free to edit this README or add a LICENSE file before publishing.
