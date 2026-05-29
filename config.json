@@ -1,0 +1,67 @@
+{
+  "scanIntervalSeconds": 5,
+  "dryRun": true,
+  "logJson": true,
+  "logText": true,
+
+  "failsafe": {
+    "cpuPercent": 98,
+    "minFreeRamMB": 150
+  },
+
+  "thresholds": {
+    "cpuPercent": 70,
+    "minFreeRamMB": 1200
+  },
+
+  "behavior": {
+    "boostWhenActive": true,
+    "lowerBackgroundAppsOnlyWhenPriorityAppActive": true,
+    "restoreOnExit": true
+  },
+
+  "focusEngine": {
+    "stabilitySeconds": 2,
+    "cooldownSeconds": 3,
+    "maxBoostPriority": "AboveNormal",
+    "boostWholeProcessTree": true
+  },
+
+  "priorityApps": {
+    "teams": "High",
+    "outlook": "AboveNormal",
+    "msedge": "AboveNormal",
+    "chrome": "AboveNormal",
+    "excel": "AboveNormal",
+    "winword": "AboveNormal",
+    "powerpnt": "AboveNormal"
+  },
+
+  "backgroundApps": {
+    "onedrive": "BelowNormal",
+    "dropbox": "BelowNormal",
+    "adobeipcbroker": "BelowNormal"
+  },
+
+  "protectedProcesses": [
+    "system",
+    "idle",
+    "registry",
+    "smss",
+    "csrss",
+    "wininit",
+    "services",
+    "lsass",
+    "svchost",
+    "fontdrvhost",
+    "dwm",
+    "audiodg",
+    "sihost",
+    "shellexperiencehost",
+    "searchhost",
+    "startmenuexperiencehost",
+    "taskhostw",
+    "explorer",
+    "msmpeng"
+  ]
+}

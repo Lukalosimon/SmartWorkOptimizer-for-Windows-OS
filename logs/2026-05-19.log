@@ -1,0 +1,752 @@
+2026-05-19T14:07:23 [INFO] SmartWorkOptimizer started
+2026-05-19T14:07:32 [INFO] Heartbeat
+2026-05-19T14:07:32 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:07:42 [INFO] Heartbeat
+2026-05-19T14:07:42 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:07:42 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:07:50 [INFO] Heartbeat
+2026-05-19T14:07:50 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:07:51 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:07:59 [INFO] Heartbeat
+2026-05-19T14:07:59 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:08:09 [INFO] Heartbeat
+2026-05-19T14:08:09 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:08:17 [INFO] Heartbeat
+2026-05-19T14:08:26 [INFO] Heartbeat
+2026-05-19T14:08:26 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:08:35 [INFO] Heartbeat
+2026-05-19T14:08:35 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:08:35 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:08:44 [INFO] Heartbeat
+2026-05-19T14:08:45 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:08:53 [INFO] Heartbeat
+2026-05-19T14:09:02 [INFO] Heartbeat
+2026-05-19T14:09:02 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:09:13 [INFO] Heartbeat
+2026-05-19T14:09:13 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:09:24 [INFO] Heartbeat
+2026-05-19T14:09:25 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:09:25 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:09:37 [INFO] Heartbeat
+2026-05-19T14:09:37 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:09:46 [INFO] Heartbeat
+2026-05-19T14:09:46 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:09:58 [INFO] Heartbeat
+2026-05-19T14:09:58 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:09:58 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:10:11 [INFO] Heartbeat
+2026-05-19T14:10:11 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:10:11 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:10:22 [INFO] Heartbeat
+2026-05-19T14:10:23 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:10:23 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:10:33 [INFO] Heartbeat
+2026-05-19T14:10:33 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:10:33 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:10:42 [INFO] Heartbeat
+2026-05-19T14:10:42 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:10:50 [INFO] Heartbeat
+2026-05-19T14:10:50 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:10:50 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:11:00 [INFO] Heartbeat
+2026-05-19T14:11:00 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:11:00 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:11:11 [INFO] Heartbeat
+2026-05-19T14:11:20 [INFO] Heartbeat
+2026-05-19T14:11:20 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:11:30 [INFO] Heartbeat
+2026-05-19T14:11:30 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:11:30 [ERROR] Main loop error
+2026-05-19T14:11:39 [INFO] Heartbeat
+2026-05-19T14:11:40 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:11:40 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:11:48 [INFO] Heartbeat
+2026-05-19T14:11:57 [INFO] Heartbeat
+2026-05-19T14:11:57 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:12:06 [INFO] Heartbeat
+2026-05-19T14:12:06 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:12:14 [INFO] Heartbeat
+2026-05-19T14:12:15 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:12:23 [INFO] Heartbeat
+2026-05-19T14:12:23 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:12:33 [INFO] Heartbeat
+2026-05-19T14:12:33 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:12:33 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:12:43 [INFO] Heartbeat
+2026-05-19T14:12:43 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:12:43 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:12:52 [INFO] Heartbeat
+2026-05-19T14:12:52 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:13:03 [INFO] Heartbeat
+2026-05-19T14:13:03 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:13:03 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:13:13 [INFO] Heartbeat
+2026-05-19T14:13:13 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:13:13 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:13:23 [INFO] Heartbeat
+2026-05-19T14:13:32 [INFO] Heartbeat
+2026-05-19T14:13:32 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:13:41 [INFO] Heartbeat
+2026-05-19T14:13:41 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:13:41 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:13:51 [INFO] Heartbeat
+2026-05-19T14:13:51 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:13:51 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:14:01 [INFO] Heartbeat
+2026-05-19T14:14:02 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:14:02 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:14:11 [INFO] Heartbeat
+2026-05-19T14:14:11 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:14:11 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:14:22 [INFO] Heartbeat
+2026-05-19T14:14:23 [ERROR] Main loop error
+2026-05-19T14:14:31 [INFO] Heartbeat
+2026-05-19T14:14:41 [INFO] Heartbeat
+2026-05-19T14:14:41 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:14:41 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:14:50 [INFO] Heartbeat
+2026-05-19T14:14:50 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:14:59 [INFO] Heartbeat
+2026-05-19T14:15:08 [INFO] Heartbeat
+2026-05-19T14:15:08 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:15:17 [INFO] Heartbeat
+2026-05-19T14:15:17 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:15:26 [INFO] Heartbeat
+2026-05-19T14:15:26 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:15:34 [INFO] Heartbeat
+2026-05-19T14:15:34 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:15:43 [INFO] Heartbeat
+2026-05-19T14:15:43 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:15:52 [INFO] Heartbeat
+2026-05-19T14:16:01 [INFO] Heartbeat
+2026-05-19T14:16:10 [INFO] Heartbeat
+2026-05-19T14:16:18 [INFO] Heartbeat
+2026-05-19T14:16:18 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:16:27 [INFO] Heartbeat
+2026-05-19T14:16:27 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:16:36 [INFO] Heartbeat
+2026-05-19T14:16:36 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:16:44 [INFO] Heartbeat
+2026-05-19T14:16:44 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:16:53 [INFO] Heartbeat
+2026-05-19T14:16:53 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:17:02 [INFO] Heartbeat
+2026-05-19T14:17:12 [INFO] Heartbeat
+2026-05-19T14:17:12 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:43:25 [INFO] SmartWorkOptimizer started
+2026-05-19T14:43:35 [INFO] Heartbeat + Metrics
+2026-05-19T14:43:44 [INFO] Heartbeat + Metrics
+2026-05-19T14:43:53 [INFO] Heartbeat + Metrics
+2026-05-19T14:44:01 [INFO] Heartbeat + Metrics
+2026-05-19T14:44:10 [INFO] Heartbeat + Metrics
+2026-05-19T14:44:19 [INFO] Heartbeat + Metrics
+2026-05-19T14:44:28 [INFO] Heartbeat + Metrics
+2026-05-19T14:44:36 [INFO] Heartbeat + Metrics
+2026-05-19T14:44:45 [INFO] Heartbeat + Metrics
+2026-05-19T14:44:54 [INFO] Heartbeat + Metrics
+2026-05-19T14:45:03 [INFO] Heartbeat + Metrics
+2026-05-19T14:45:12 [INFO] Heartbeat + Metrics
+2026-05-19T14:45:12 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:45:22 [INFO] Heartbeat + Metrics
+2026-05-19T14:45:32 [INFO] Heartbeat + Metrics
+2026-05-19T14:45:32 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:45:41 [INFO] Heartbeat + Metrics
+2026-05-19T14:45:50 [INFO] Heartbeat + Metrics
+2026-05-19T14:46:00 [INFO] Heartbeat + Metrics
+2026-05-19T14:46:09 [INFO] Heartbeat + Metrics
+2026-05-19T14:46:10 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:46:18 [INFO] Heartbeat + Metrics
+2026-05-19T14:46:28 [INFO] Heartbeat + Metrics
+2026-05-19T14:46:28 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:46:37 [INFO] Heartbeat + Metrics
+2026-05-19T14:46:46 [INFO] Heartbeat + Metrics
+2026-05-19T14:46:55 [INFO] Heartbeat + Metrics
+2026-05-19T14:47:04 [INFO] Heartbeat + Metrics
+2026-05-19T14:47:13 [INFO] Heartbeat + Metrics
+2026-05-19T14:47:13 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:47:22 [INFO] Heartbeat + Metrics
+2026-05-19T14:47:31 [INFO] Heartbeat + Metrics
+2026-05-19T14:47:40 [INFO] Heartbeat + Metrics
+2026-05-19T14:47:48 [INFO] Heartbeat + Metrics
+2026-05-19T14:47:48 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:47:49 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:47:57 [INFO] Heartbeat + Metrics
+2026-05-19T14:48:06 [INFO] Heartbeat + Metrics
+2026-05-19T14:48:06 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:48:15 [INFO] Heartbeat + Metrics
+2026-05-19T14:48:24 [INFO] Heartbeat + Metrics
+2026-05-19T14:48:33 [INFO] Heartbeat + Metrics
+2026-05-19T14:48:42 [INFO] Heartbeat + Metrics
+2026-05-19T14:48:51 [INFO] Heartbeat + Metrics
+2026-05-19T14:48:51 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:48:51 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:48:59 [INFO] Heartbeat + Metrics
+2026-05-19T14:49:08 [INFO] Heartbeat + Metrics
+2026-05-19T14:49:17 [INFO] Heartbeat + Metrics
+2026-05-19T14:49:25 [INFO] Heartbeat + Metrics
+2026-05-19T14:49:34 [INFO] Heartbeat + Metrics
+2026-05-19T14:49:43 [INFO] Heartbeat + Metrics
+2026-05-19T14:49:52 [INFO] Heartbeat + Metrics
+2026-05-19T14:49:52 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:49:53 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:50:03 [INFO] Heartbeat + Metrics
+2026-05-19T14:50:12 [INFO] Heartbeat + Metrics
+2026-05-19T14:50:22 [INFO] Heartbeat + Metrics
+2026-05-19T14:51:51 [INFO] SmartWorkOptimizer started
+2026-05-19T14:51:56 [INFO] Heartbeat + Metrics
+2026-05-19T14:52:05 [INFO] Heartbeat + Metrics
+2026-05-19T14:52:15 [INFO] Heartbeat + Metrics
+2026-05-19T14:52:25 [INFO] Heartbeat + Metrics
+2026-05-19T14:52:26 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:52:26 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:52:36 [INFO] Heartbeat + Metrics
+2026-05-19T14:52:45 [INFO] Heartbeat + Metrics
+2026-05-19T14:52:53 [INFO] Heartbeat + Metrics
+2026-05-19T14:53:03 [INFO] Heartbeat + Metrics
+2026-05-19T14:53:03 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:53:12 [INFO] Heartbeat + Metrics
+2026-05-19T14:53:12 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:53:12 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:53:20 [INFO] Heartbeat + Metrics
+2026-05-19T14:53:30 [INFO] Heartbeat + Metrics
+2026-05-19T14:53:39 [INFO] Heartbeat + Metrics
+2026-05-19T14:53:50 [INFO] Heartbeat + Metrics
+2026-05-19T14:53:58 [INFO] Heartbeat + Metrics
+2026-05-19T14:54:07 [INFO] Heartbeat + Metrics
+2026-05-19T14:54:16 [INFO] Heartbeat + Metrics
+2026-05-19T14:54:25 [INFO] Heartbeat + Metrics
+2026-05-19T14:54:33 [INFO] Heartbeat + Metrics
+2026-05-19T14:54:42 [INFO] Heartbeat + Metrics
+2026-05-19T14:54:42 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:54:51 [INFO] Heartbeat + Metrics
+2026-05-19T14:55:01 [INFO] Heartbeat + Metrics
+2026-05-19T14:55:01 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:55:10 [INFO] Heartbeat + Metrics
+2026-05-19T14:55:10 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:55:19 [INFO] Heartbeat + Metrics
+2026-05-19T14:55:27 [INFO] Heartbeat + Metrics
+2026-05-19T14:55:37 [INFO] Heartbeat + Metrics
+2026-05-19T14:55:37 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:55:46 [INFO] Heartbeat + Metrics
+2026-05-19T14:55:56 [INFO] Heartbeat + Metrics
+2026-05-19T14:55:56 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:56:05 [INFO] Heartbeat + Metrics
+2026-05-19T14:56:05 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:56:13 [INFO] Heartbeat + Metrics
+2026-05-19T14:56:13 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:56:23 [INFO] Heartbeat + Metrics
+2026-05-19T14:56:33 [INFO] Heartbeat + Metrics
+2026-05-19T14:56:33 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:56:33 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:56:43 [INFO] Heartbeat + Metrics
+2026-05-19T14:56:53 [INFO] Heartbeat + Metrics
+2026-05-19T14:56:53 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:57:02 [INFO] Heartbeat + Metrics
+2026-05-19T14:57:12 [INFO] Heartbeat + Metrics
+2026-05-19T14:57:12 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:57:12 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:57:22 [INFO] Heartbeat + Metrics
+2026-05-19T14:57:32 [INFO] Heartbeat + Metrics
+2026-05-19T14:57:40 [INFO] Heartbeat + Metrics
+2026-05-19T14:57:40 [WARN] Failsafe triggered: CPU too high
+2026-05-19T14:57:49 [INFO] Heartbeat + Metrics
+2026-05-19T14:57:58 [INFO] Heartbeat + Metrics
+2026-05-19T14:58:07 [INFO] Heartbeat + Metrics
+2026-05-19T14:58:07 [WARN] Failsafe triggered: RAM too low
+2026-05-19T14:58:16 [INFO] Heartbeat + Metrics
+2026-05-19T14:58:25 [INFO] Heartbeat + Metrics
+2026-05-19T14:58:33 [INFO] Heartbeat + Metrics
+2026-05-19T14:58:42 [INFO] Heartbeat + Metrics
+2026-05-19T14:58:51 [INFO] Heartbeat + Metrics
+2026-05-19T14:58:59 [INFO] Heartbeat + Metrics
+2026-05-19T14:59:08 [INFO] Heartbeat + Metrics
+2026-05-19T14:59:17 [INFO] Heartbeat + Metrics
+2026-05-19T14:59:25 [INFO] Heartbeat + Metrics
+2026-05-19T14:59:34 [INFO] Heartbeat + Metrics
+2026-05-19T14:59:43 [INFO] Heartbeat + Metrics
+2026-05-19T14:59:51 [INFO] Heartbeat + Metrics
+2026-05-19T15:00:00 [INFO] Heartbeat + Metrics
+2026-05-19T15:00:09 [INFO] Heartbeat + Metrics
+2026-05-19T15:00:17 [INFO] Heartbeat + Metrics
+2026-05-19T15:00:26 [INFO] Heartbeat + Metrics
+2026-05-19T15:00:35 [INFO] Heartbeat + Metrics
+2026-05-19T15:00:43 [INFO] Heartbeat + Metrics
+2026-05-19T15:00:52 [INFO] Heartbeat + Metrics
+2026-05-19T15:01:01 [INFO] Heartbeat + Metrics
+2026-05-19T15:01:09 [INFO] Heartbeat + Metrics
+2026-05-19T15:01:18 [INFO] Heartbeat + Metrics
+2026-05-19T15:01:27 [INFO] Heartbeat + Metrics
+2026-05-19T15:01:27 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:01:36 [INFO] Heartbeat + Metrics
+2026-05-19T15:01:39 [WARN] Desired process no longer exists (PID 24204)
+2026-05-19T15:01:39 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:01:49 [INFO] Heartbeat + Metrics
+2026-05-19T15:01:49 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:01:58 [INFO] Heartbeat + Metrics
+2026-05-19T15:02:08 [INFO] Heartbeat + Metrics
+2026-05-19T15:02:08 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:02:17 [INFO] Heartbeat + Metrics
+2026-05-19T15:02:17 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:02:27 [INFO] Heartbeat + Metrics
+2026-05-19T15:02:28 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:02:36 [INFO] Heartbeat + Metrics
+2026-05-19T15:02:47 [INFO] Heartbeat + Metrics
+2026-05-19T15:02:47 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:02:56 [INFO] Heartbeat + Metrics
+2026-05-19T15:02:56 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:03:04 [INFO] Heartbeat + Metrics
+2026-05-19T15:03:04 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:03:04 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:03:13 [INFO] Heartbeat + Metrics
+2026-05-19T15:03:24 [INFO] Heartbeat + Metrics
+2026-05-19T15:03:24 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:03:24 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:03:35 [INFO] Heartbeat + Metrics
+2026-05-19T15:03:35 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:03:35 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:03:45 [INFO] Heartbeat + Metrics
+2026-05-19T15:03:45 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:03:57 [INFO] Heartbeat + Metrics
+2026-05-19T15:03:57 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:04:07 [INFO] Heartbeat + Metrics
+2026-05-19T15:04:07 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:04:07 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:04:18 [INFO] Heartbeat + Metrics
+2026-05-19T15:04:27 [INFO] Heartbeat + Metrics
+2026-05-19T15:04:28 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:04:38 [INFO] Heartbeat + Metrics
+2026-05-19T15:04:38 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:04:47 [INFO] Heartbeat + Metrics
+2026-05-19T15:04:47 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:04:57 [INFO] Heartbeat + Metrics
+2026-05-19T15:04:57 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:05:06 [INFO] Heartbeat + Metrics
+2026-05-19T15:05:15 [INFO] Heartbeat + Metrics
+2026-05-19T15:05:16 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:05:29 [INFO] Heartbeat + Metrics
+2026-05-19T15:05:30 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:05:40 [INFO] Heartbeat + Metrics
+2026-05-19T15:05:40 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:05:40 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:05:50 [INFO] Heartbeat + Metrics
+2026-05-19T15:05:50 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:05:59 [INFO] Heartbeat + Metrics
+2026-05-19T15:05:59 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:06:08 [INFO] Heartbeat + Metrics
+2026-05-19T15:06:08 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:06:17 [INFO] Heartbeat + Metrics
+2026-05-19T15:06:17 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:06:26 [INFO] Heartbeat + Metrics
+2026-05-19T15:06:35 [INFO] Heartbeat + Metrics
+2026-05-19T15:06:44 [INFO] Heartbeat + Metrics
+2026-05-19T15:06:45 [WARN] Desired process no longer exists (PID 24204)
+2026-05-19T15:06:45 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:06:55 [INFO] Heartbeat + Metrics
+2026-05-19T15:07:03 [INFO] Heartbeat + Metrics
+2026-05-19T15:07:03 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:07:12 [INFO] Heartbeat + Metrics
+2026-05-19T15:07:21 [INFO] Heartbeat + Metrics
+2026-05-19T15:07:21 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:07:30 [INFO] Heartbeat + Metrics
+2026-05-19T15:07:30 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:07:39 [INFO] Heartbeat + Metrics
+2026-05-19T15:07:48 [INFO] Heartbeat + Metrics
+2026-05-19T15:07:56 [INFO] Heartbeat + Metrics
+2026-05-19T15:08:08 [INFO] Heartbeat + Metrics
+2026-05-19T15:08:18 [INFO] Heartbeat + Metrics
+2026-05-19T15:08:27 [INFO] Heartbeat + Metrics
+2026-05-19T15:08:27 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:08:37 [INFO] Heartbeat + Metrics
+2026-05-19T15:08:37 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:08:37 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:08:48 [INFO] Heartbeat + Metrics
+2026-05-19T15:08:48 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:08:59 [INFO] Heartbeat + Metrics
+2026-05-19T15:08:59 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:09:09 [INFO] Heartbeat + Metrics
+2026-05-19T15:09:09 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:09:18 [INFO] Heartbeat + Metrics
+2026-05-19T15:09:18 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:09:19 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:09:27 [INFO] Heartbeat + Metrics
+2026-05-19T15:09:36 [INFO] Heartbeat + Metrics
+2026-05-19T15:09:36 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:09:45 [INFO] Heartbeat + Metrics
+2026-05-19T15:09:54 [INFO] Heartbeat + Metrics
+2026-05-19T15:10:03 [INFO] Heartbeat + Metrics
+2026-05-19T15:10:03 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:10:13 [INFO] Heartbeat + Metrics
+2026-05-19T15:10:13 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:10:22 [INFO] Heartbeat + Metrics
+2026-05-19T15:10:32 [INFO] Heartbeat + Metrics
+2026-05-19T15:10:40 [INFO] Heartbeat + Metrics
+2026-05-19T15:10:49 [INFO] Heartbeat + Metrics
+2026-05-19T15:10:58 [INFO] Heartbeat + Metrics
+2026-05-19T15:11:07 [INFO] Heartbeat + Metrics
+2026-05-19T15:11:07 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:11:16 [INFO] Heartbeat + Metrics
+2026-05-19T15:11:17 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:11:28 [INFO] Heartbeat + Metrics
+2026-05-19T15:11:37 [INFO] Heartbeat + Metrics
+2026-05-19T15:11:45 [INFO] Heartbeat + Metrics
+2026-05-19T15:11:55 [INFO] Heartbeat + Metrics
+2026-05-19T15:11:55 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:12:04 [INFO] Heartbeat + Metrics
+2026-05-19T15:12:13 [INFO] Heartbeat + Metrics
+2026-05-19T15:12:22 [INFO] Heartbeat + Metrics
+2026-05-19T15:12:22 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:12:31 [INFO] Heartbeat + Metrics
+2026-05-19T15:12:31 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:12:40 [INFO] Heartbeat + Metrics
+2026-05-19T15:12:40 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:12:49 [INFO] Heartbeat + Metrics
+2026-05-19T15:12:58 [INFO] Heartbeat + Metrics
+2026-05-19T15:13:08 [INFO] Heartbeat + Metrics
+2026-05-19T15:13:08 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:13:08 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:13:18 [INFO] Heartbeat + Metrics
+2026-05-19T15:13:19 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:13:28 [INFO] Heartbeat + Metrics
+2026-05-19T15:13:28 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:13:37 [INFO] Heartbeat + Metrics
+2026-05-19T15:13:46 [INFO] Heartbeat + Metrics
+2026-05-19T15:14:01 [INFO] Heartbeat + Metrics
+2026-05-19T15:14:02 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:14:02 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:14:12 [INFO] Heartbeat + Metrics
+2026-05-19T15:14:21 [INFO] Heartbeat + Metrics
+2026-05-19T15:14:30 [INFO] Heartbeat + Metrics
+2026-05-19T15:14:39 [INFO] Heartbeat + Metrics
+2026-05-19T15:14:47 [INFO] Heartbeat + Metrics
+2026-05-19T15:14:56 [INFO] Heartbeat + Metrics
+2026-05-19T15:15:05 [INFO] Heartbeat + Metrics
+2026-05-19T15:15:05 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:15:15 [INFO] Heartbeat + Metrics
+2026-05-19T15:15:24 [INFO] Heartbeat + Metrics
+2026-05-19T15:15:24 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:15:24 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:15:32 [INFO] Heartbeat + Metrics
+2026-05-19T15:15:42 [INFO] Heartbeat + Metrics
+2026-05-19T15:15:50 [INFO] Heartbeat + Metrics
+2026-05-19T15:15:59 [INFO] Heartbeat + Metrics
+2026-05-19T15:16:08 [INFO] Heartbeat + Metrics
+2026-05-19T15:16:17 [INFO] Heartbeat + Metrics
+2026-05-19T15:16:26 [INFO] Heartbeat + Metrics
+2026-05-19T15:16:26 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:16:26 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:16:37 [INFO] Heartbeat + Metrics
+2026-05-19T15:16:37 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:16:46 [INFO] Heartbeat + Metrics
+2026-05-19T15:16:55 [INFO] Heartbeat + Metrics
+2026-05-19T15:17:04 [INFO] Heartbeat + Metrics
+2026-05-19T15:17:04 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:17:13 [INFO] Heartbeat + Metrics
+2026-05-19T15:17:13 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:17:23 [INFO] Heartbeat + Metrics
+2026-05-19T15:17:23 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:17:23 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:17:33 [INFO] Heartbeat + Metrics
+2026-05-19T15:17:43 [INFO] Heartbeat + Metrics
+2026-05-19T15:17:51 [INFO] Heartbeat + Metrics
+2026-05-19T15:18:01 [INFO] Heartbeat + Metrics
+2026-05-19T15:18:11 [INFO] Heartbeat + Metrics
+2026-05-19T15:18:12 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:18:23 [INFO] Heartbeat + Metrics
+2026-05-19T15:18:23 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:18:33 [INFO] Heartbeat + Metrics
+2026-05-19T15:18:33 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:18:42 [INFO] Heartbeat + Metrics
+2026-05-19T15:18:51 [INFO] Heartbeat + Metrics
+2026-05-19T15:19:00 [INFO] Heartbeat + Metrics
+2026-05-19T15:19:08 [INFO] Heartbeat + Metrics
+2026-05-19T15:19:17 [INFO] Heartbeat + Metrics
+2026-05-19T15:19:26 [INFO] Heartbeat + Metrics
+2026-05-19T15:19:35 [INFO] Heartbeat + Metrics
+2026-05-19T15:19:43 [INFO] Heartbeat + Metrics
+2026-05-19T15:19:52 [INFO] Heartbeat + Metrics
+2026-05-19T15:20:01 [INFO] Heartbeat + Metrics
+2026-05-19T15:20:01 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:20:01 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:20:10 [INFO] Heartbeat + Metrics
+2026-05-19T15:20:10 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:20:19 [INFO] Heartbeat + Metrics
+2026-05-19T15:20:27 [INFO] Heartbeat + Metrics
+2026-05-19T15:20:28 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:20:28 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:20:36 [INFO] Heartbeat + Metrics
+2026-05-19T15:20:45 [INFO] Heartbeat + Metrics
+2026-05-19T15:20:45 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:20:55 [INFO] Heartbeat + Metrics
+2026-05-19T15:20:55 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:21:04 [INFO] Heartbeat + Metrics
+2026-05-19T15:21:13 [INFO] Heartbeat + Metrics
+2026-05-19T15:21:22 [INFO] Heartbeat + Metrics
+2026-05-19T15:21:22 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:21:31 [INFO] Heartbeat + Metrics
+2026-05-19T15:21:31 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:21:41 [INFO] Heartbeat + Metrics
+2026-05-19T15:21:41 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:21:41 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:21:51 [INFO] Heartbeat + Metrics
+2026-05-19T15:21:51 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:22:01 [INFO] Heartbeat + Metrics
+2026-05-19T15:22:09 [INFO] Heartbeat + Metrics
+2026-05-19T15:22:18 [INFO] Heartbeat + Metrics
+2026-05-19T15:22:27 [INFO] Heartbeat + Metrics
+2026-05-19T15:22:35 [INFO] Heartbeat + Metrics
+2026-05-19T15:22:44 [INFO] Heartbeat + Metrics
+2026-05-19T15:22:53 [INFO] Heartbeat + Metrics
+2026-05-19T15:23:01 [INFO] Heartbeat + Metrics
+2026-05-19T15:23:10 [INFO] Heartbeat + Metrics
+2026-05-19T15:23:10 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:23:19 [INFO] Heartbeat + Metrics
+2026-05-19T15:23:28 [INFO] Heartbeat + Metrics
+2026-05-19T15:23:29 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:23:38 [INFO] Heartbeat + Metrics
+2026-05-19T15:23:38 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:23:47 [INFO] Heartbeat + Metrics
+2026-05-19T15:24:00 [INFO] Heartbeat + Metrics
+2026-05-19T15:24:00 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:24:00 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:24:09 [INFO] Heartbeat + Metrics
+2026-05-19T15:24:09 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:24:19 [INFO] Heartbeat + Metrics
+2026-05-19T15:24:19 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:24:27 [INFO] Heartbeat + Metrics
+2026-05-19T15:24:28 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:24:28 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:24:37 [INFO] Heartbeat + Metrics
+2026-05-19T15:24:37 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:24:37 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:24:45 [INFO] Heartbeat + Metrics
+2026-05-19T15:24:55 [INFO] Heartbeat + Metrics
+2026-05-19T15:24:55 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:25:03 [INFO] Heartbeat + Metrics
+2026-05-19T15:25:12 [INFO] Heartbeat + Metrics
+2026-05-19T15:25:21 [INFO] Heartbeat + Metrics
+2026-05-19T15:25:33 [INFO] Heartbeat + Metrics
+2026-05-19T15:25:45 [INFO] Heartbeat + Metrics
+2026-05-19T15:25:46 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:25:56 [INFO] Heartbeat + Metrics
+2026-05-19T15:25:56 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:25:56 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:26:06 [INFO] Heartbeat + Metrics
+2026-05-19T15:26:14 [INFO] Heartbeat + Metrics
+2026-05-19T15:26:23 [INFO] Heartbeat + Metrics
+2026-05-19T15:26:32 [INFO] Heartbeat + Metrics
+2026-05-19T15:26:40 [INFO] Heartbeat + Metrics
+2026-05-19T15:26:49 [INFO] Heartbeat + Metrics
+2026-05-19T15:26:49 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:26:58 [INFO] Heartbeat + Metrics
+2026-05-19T15:27:07 [INFO] Heartbeat + Metrics
+2026-05-19T15:27:16 [INFO] Heartbeat + Metrics
+2026-05-19T15:27:24 [INFO] Heartbeat + Metrics
+2026-05-19T15:27:33 [INFO] Heartbeat + Metrics
+2026-05-19T15:27:42 [INFO] Heartbeat + Metrics
+2026-05-19T15:27:51 [INFO] Heartbeat + Metrics
+2026-05-19T15:27:59 [INFO] Heartbeat + Metrics
+2026-05-19T15:28:08 [INFO] Heartbeat + Metrics
+2026-05-19T15:28:17 [INFO] Heartbeat + Metrics
+2026-05-19T15:28:26 [INFO] Heartbeat + Metrics
+2026-05-19T15:28:26 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:28:26 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:28:35 [INFO] Heartbeat + Metrics
+2026-05-19T15:28:35 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:28:45 [INFO] Heartbeat + Metrics
+2026-05-19T15:28:45 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:28:55 [INFO] Heartbeat + Metrics
+2026-05-19T15:28:55 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:29:04 [INFO] Heartbeat + Metrics
+2026-05-19T15:29:13 [INFO] Heartbeat + Metrics
+2026-05-19T15:29:21 [INFO] Heartbeat + Metrics
+2026-05-19T15:29:30 [INFO] Heartbeat + Metrics
+2026-05-19T15:29:30 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:29:39 [INFO] Heartbeat + Metrics
+2026-05-19T15:29:48 [INFO] Heartbeat + Metrics
+2026-05-19T15:29:57 [INFO] Heartbeat + Metrics
+2026-05-19T15:29:57 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:29:57 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:30:06 [INFO] Heartbeat + Metrics
+2026-05-19T15:30:06 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:30:06 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:30:16 [INFO] Heartbeat + Metrics
+2026-05-19T15:30:16 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:30:25 [INFO] Heartbeat + Metrics
+2026-05-19T15:30:25 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:30:25 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:30:34 [INFO] Heartbeat + Metrics
+2026-05-19T15:30:34 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:30:34 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:30:44 [INFO] Heartbeat + Metrics
+2026-05-19T15:30:44 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:30:52 [INFO] Heartbeat + Metrics
+2026-05-19T15:30:53 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:30:53 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:31:01 [INFO] Heartbeat + Metrics
+2026-05-19T15:31:01 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:31:02 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:31:10 [INFO] Heartbeat + Metrics
+2026-05-19T15:31:10 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:31:10 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:31:19 [INFO] Heartbeat + Metrics
+2026-05-19T15:31:19 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:31:19 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:31:28 [INFO] Heartbeat + Metrics
+2026-05-19T15:31:28 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:31:28 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:31:37 [INFO] Heartbeat + Metrics
+2026-05-19T15:31:37 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:31:37 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:31:50 [INFO] Heartbeat + Metrics
+2026-05-19T15:31:51 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:31:51 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:32:02 [INFO] Heartbeat + Metrics
+2026-05-19T15:32:02 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:32:11 [INFO] Heartbeat + Metrics
+2026-05-19T15:32:11 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:32:20 [INFO] Heartbeat + Metrics
+2026-05-19T15:32:20 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:32:20 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:32:29 [INFO] Heartbeat + Metrics
+2026-05-19T15:32:29 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:32:38 [INFO] Heartbeat + Metrics
+2026-05-19T15:32:39 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:32:39 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:32:47 [INFO] Heartbeat + Metrics
+2026-05-19T15:32:47 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:32:47 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:32:56 [INFO] Heartbeat + Metrics
+2026-05-19T15:32:56 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:32:56 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:33:05 [INFO] Heartbeat + Metrics
+2026-05-19T15:33:05 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:33:05 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:33:14 [INFO] Heartbeat + Metrics
+2026-05-19T15:33:14 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:33:14 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:33:23 [INFO] Heartbeat + Metrics
+2026-05-19T15:33:23 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:33:23 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:33:31 [INFO] Heartbeat + Metrics
+2026-05-19T15:33:32 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:33:32 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:33:40 [INFO] Heartbeat + Metrics
+2026-05-19T15:33:40 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:33:49 [INFO] Heartbeat + Metrics
+2026-05-19T15:33:49 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:33:49 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:33:58 [INFO] Heartbeat + Metrics
+2026-05-19T15:33:58 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:33:58 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:34:07 [INFO] Heartbeat + Metrics
+2026-05-19T15:34:07 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:34:07 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:34:15 [INFO] Heartbeat + Metrics
+2026-05-19T15:34:15 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:34:24 [INFO] Heartbeat + Metrics
+2026-05-19T15:34:24 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:34:25 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:34:33 [INFO] Heartbeat + Metrics
+2026-05-19T15:34:33 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:34:33 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:34:42 [INFO] Heartbeat + Metrics
+2026-05-19T15:34:42 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:34:51 [INFO] Heartbeat + Metrics
+2026-05-19T15:34:51 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:35:00 [INFO] Heartbeat + Metrics
+2026-05-19T15:35:00 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:35:00 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:35:09 [INFO] Heartbeat + Metrics
+2026-05-19T15:35:09 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:35:09 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:35:18 [INFO] Heartbeat + Metrics
+2026-05-19T15:35:18 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:35:18 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:35:26 [INFO] Heartbeat + Metrics
+2026-05-19T15:35:26 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:35:27 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:35:35 [INFO] Heartbeat + Metrics
+2026-05-19T15:35:35 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:35:35 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:35:44 [INFO] Heartbeat + Metrics
+2026-05-19T15:35:44 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:35:44 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:35:53 [INFO] Heartbeat + Metrics
+2026-05-19T15:35:53 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:35:53 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:36:02 [INFO] Heartbeat + Metrics
+2026-05-19T15:36:02 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:36:11 [INFO] Heartbeat + Metrics
+2026-05-19T15:36:11 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:36:12 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:36:20 [INFO] Heartbeat + Metrics
+2026-05-19T15:36:20 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:36:20 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:36:30 [INFO] Heartbeat + Metrics
+2026-05-19T15:36:30 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:36:38 [INFO] Heartbeat + Metrics
+2026-05-19T15:36:39 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:36:39 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:36:48 [INFO] Heartbeat + Metrics
+2026-05-19T15:36:48 [WARN] Desired process no longer exists (PID 4304)
+2026-05-19T15:36:48 [WARN] Desired process no longer exists (PID 21360)
+2026-05-19T15:36:57 [INFO] Heartbeat + Metrics
+2026-05-19T15:36:57 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:37:07 [INFO] Heartbeat + Metrics
+2026-05-19T15:37:07 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:37:16 [INFO] Heartbeat + Metrics
+2026-05-19T15:37:16 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:37:25 [INFO] Heartbeat + Metrics
+2026-05-19T15:37:25 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:37:34 [INFO] Heartbeat + Metrics
+2026-05-19T15:37:34 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:37:34 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:37:46 [INFO] Heartbeat + Metrics
+2026-05-19T15:37:46 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:37:57 [INFO] Heartbeat + Metrics
+2026-05-19T15:37:57 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:38:06 [INFO] Heartbeat + Metrics
+2026-05-19T15:38:16 [INFO] Heartbeat + Metrics
+2026-05-19T15:38:16 [WARN] Failsafe triggered: CPU too high
+2026-05-19T15:38:16 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:38:25 [INFO] Heartbeat + Metrics
+2026-05-19T15:38:26 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:38:37 [INFO] Heartbeat + Metrics
+2026-05-19T15:38:37 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:38:47 [INFO] Heartbeat + Metrics
+2026-05-19T15:38:47 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:38:57 [INFO] Heartbeat + Metrics
+2026-05-19T15:38:57 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:39:06 [INFO] Heartbeat + Metrics
+2026-05-19T15:39:06 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:39:16 [INFO] Heartbeat + Metrics
+2026-05-19T15:39:16 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:39:25 [INFO] Heartbeat + Metrics
+2026-05-19T15:39:34 [INFO] Heartbeat + Metrics
+2026-05-19T15:39:44 [INFO] Heartbeat + Metrics
+2026-05-19T15:39:44 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:39:54 [INFO] Heartbeat + Metrics
+2026-05-19T15:39:54 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:40:04 [INFO] Heartbeat + Metrics
+2026-05-19T15:40:04 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:40:14 [INFO] Heartbeat + Metrics
+2026-05-19T15:40:14 [WARN] Failsafe triggered: RAM too low
+2026-05-19T15:40:25 [INFO] Heartbeat + Metrics
+2026-05-19T15:40:25 [WARN] Failsafe triggered: RAM too low
+2026-05-19T20:35:49 [INFO] Heartbeat + Metrics
+2026-05-19T20:35:49 [WARN] Failsafe triggered: RAM too low
+2026-05-19T20:36:00 [INFO] Heartbeat + Metrics
+2026-05-19T20:36:00 [WARN] Failsafe triggered: CPU too high
+2026-05-19T20:36:09 [INFO] Heartbeat + Metrics
+2026-05-19T20:36:09 [WARN] Failsafe triggered: CPU too high
+2026-05-19T20:36:19 [INFO] Heartbeat + Metrics
+2026-05-19T20:36:19 [WARN] Failsafe triggered: CPU too high
+2026-05-19T20:36:28 [INFO] Heartbeat + Metrics
+2026-05-19T20:36:28 [WARN] Failsafe triggered: CPU too high
+2026-05-19T20:36:37 [INFO] Heartbeat + Metrics
+2026-05-19T20:36:37 [WARN] Failsafe triggered: CPU too high
+2026-05-19T20:36:46 [INFO] Heartbeat + Metrics
+2026-05-19T20:36:46 [WARN] Failsafe triggered: CPU too high
+2026-05-19T20:36:55 [INFO] Heartbeat + Metrics
+2026-05-19T20:36:56 [WARN] Failsafe triggered: CPU too high
+2026-05-19T20:37:08 [INFO] Heartbeat + Metrics

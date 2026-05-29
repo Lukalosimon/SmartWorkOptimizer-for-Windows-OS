@@ -1,0 +1,752 @@
+{"timestamp":"2026-05-19T14:07:23","level":"INFO","message":"SmartWorkOptimizer started","data":{"dryRun":true,"scanIntervalSeconds":5}}
+{"timestamp":"2026-05-19T14:07:32","level":"INFO","message":"Heartbeat","data":{"freeRamMB":215.82,"activePid":null,"networkBytesPerSec":2211.57,"activeApp":null,"diskPercent":1198.42,"cpuPercent":52.65}}
+{"timestamp":"2026-05-19T14:07:32","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":215.82,"threshold":500}}
+{"timestamp":"2026-05-19T14:07:42","level":"INFO","message":"Heartbeat","data":{"freeRamMB":59.82,"activePid":null,"networkBytesPerSec":356615.35,"activeApp":null,"diskPercent":439.19,"cpuPercent":100}}
+{"timestamp":"2026-05-19T14:07:42","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":95}}
+{"timestamp":"2026-05-19T14:07:42","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":59.82,"threshold":500}}
+{"timestamp":"2026-05-19T14:07:50","level":"INFO","message":"Heartbeat","data":{"freeRamMB":104.44,"activePid":null,"networkBytesPerSec":8973.06,"activeApp":null,"diskPercent":4928.83,"cpuPercent":95.32}}
+{"timestamp":"2026-05-19T14:07:50","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":95.32,"threshold":95}}
+{"timestamp":"2026-05-19T14:07:51","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":104.44,"threshold":500}}
+{"timestamp":"2026-05-19T14:07:59","level":"INFO","message":"Heartbeat","data":{"freeRamMB":240.12,"activePid":null,"networkBytesPerSec":8017.25,"activeApp":null,"diskPercent":1450.66,"cpuPercent":91.22}}
+{"timestamp":"2026-05-19T14:07:59","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":240.12,"threshold":500}}
+{"timestamp":"2026-05-19T14:08:09","level":"INFO","message":"Heartbeat","data":{"freeRamMB":268.34,"activePid":null,"networkBytesPerSec":7294.05,"activeApp":null,"diskPercent":2694.02,"cpuPercent":90.9}}
+{"timestamp":"2026-05-19T14:08:09","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":268.34,"threshold":500}}
+{"timestamp":"2026-05-19T14:08:17","level":"INFO","message":"Heartbeat","data":{"freeRamMB":873.32,"activePid":null,"networkBytesPerSec":13753.21,"activeApp":null,"diskPercent":16371.59,"cpuPercent":35.76}}
+{"timestamp":"2026-05-19T14:08:26","level":"INFO","message":"Heartbeat","data":{"freeRamMB":362.59,"activePid":null,"networkBytesPerSec":15228.24,"activeApp":null,"diskPercent":1779.63,"cpuPercent":40.84}}
+{"timestamp":"2026-05-19T14:08:26","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":362.59,"threshold":500}}
+{"timestamp":"2026-05-19T14:08:35","level":"INFO","message":"Heartbeat","data":{"freeRamMB":213.24,"activePid":null,"networkBytesPerSec":494346.53,"activeApp":null,"diskPercent":1992.8,"cpuPercent":98.45}}
+{"timestamp":"2026-05-19T14:08:35","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.45,"threshold":95}}
+{"timestamp":"2026-05-19T14:08:35","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":213.24,"threshold":500}}
+{"timestamp":"2026-05-19T14:08:44","level":"INFO","message":"Heartbeat","data":{"freeRamMB":21.02,"activePid":null,"networkBytesPerSec":9431.75,"activeApp":null,"diskPercent":1992.95,"cpuPercent":86.13}}
+{"timestamp":"2026-05-19T14:08:45","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":21.02,"threshold":500}}
+{"timestamp":"2026-05-19T14:08:53","level":"INFO","message":"Heartbeat","data":{"freeRamMB":605.38,"activePid":null,"networkBytesPerSec":25242.73,"activeApp":null,"diskPercent":1262.48,"cpuPercent":94.98}}
+{"timestamp":"2026-05-19T14:09:02","level":"INFO","message":"Heartbeat","data":{"freeRamMB":395.87,"activePid":null,"networkBytesPerSec":48179.06,"activeApp":null,"diskPercent":3579.82,"cpuPercent":68.68}}
+{"timestamp":"2026-05-19T14:09:02","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":395.87,"threshold":500}}
+{"timestamp":"2026-05-19T14:09:13","level":"INFO","message":"Heartbeat","data":{"freeRamMB":186.41,"activePid":null,"networkBytesPerSec":35158.91,"activeApp":null,"diskPercent":1420.69,"cpuPercent":68.85}}
+{"timestamp":"2026-05-19T14:09:13","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":186.41,"threshold":500}}
+{"timestamp":"2026-05-19T14:09:24","level":"INFO","message":"Heartbeat","data":{"freeRamMB":5.81,"activePid":null,"networkBytesPerSec":322960.48,"activeApp":null,"diskPercent":2390.65,"cpuPercent":100}}
+{"timestamp":"2026-05-19T14:09:25","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":95}}
+{"timestamp":"2026-05-19T14:09:25","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":5.81,"threshold":500}}
+{"timestamp":"2026-05-19T14:09:37","level":"INFO","message":"Heartbeat","data":{"freeRamMB":204,"activePid":null,"networkBytesPerSec":60958.46,"activeApp":null,"diskPercent":2884.08,"cpuPercent":88.61}}
+{"timestamp":"2026-05-19T14:09:37","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":204,"threshold":500}}
+{"timestamp":"2026-05-19T14:09:46","level":"INFO","message":"Heartbeat","data":{"freeRamMB":148.54,"activePid":null,"networkBytesPerSec":43987.58,"activeApp":null,"diskPercent":4845.38,"cpuPercent":94.77}}
+{"timestamp":"2026-05-19T14:09:46","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":148.54,"threshold":500}}
+{"timestamp":"2026-05-19T14:09:58","level":"INFO","message":"Heartbeat","data":{"freeRamMB":15.68,"activePid":null,"networkBytesPerSec":57712.01,"activeApp":null,"diskPercent":7257.15,"cpuPercent":100}}
+{"timestamp":"2026-05-19T14:09:58","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":95}}
+{"timestamp":"2026-05-19T14:09:58","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":15.68,"threshold":500}}
+{"timestamp":"2026-05-19T14:10:11","level":"INFO","message":"Heartbeat","data":{"freeRamMB":14.02,"activePid":null,"networkBytesPerSec":40623.55,"activeApp":null,"diskPercent":6326.18,"cpuPercent":95.95}}
+{"timestamp":"2026-05-19T14:10:11","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":95.95,"threshold":95}}
+{"timestamp":"2026-05-19T14:10:11","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":14.02,"threshold":500}}
+{"timestamp":"2026-05-19T14:10:22","level":"INFO","message":"Heartbeat","data":{"freeRamMB":19.63,"activePid":null,"networkBytesPerSec":503100.78,"activeApp":null,"diskPercent":2959.9,"cpuPercent":99.43}}
+{"timestamp":"2026-05-19T14:10:23","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.43,"threshold":95}}
+{"timestamp":"2026-05-19T14:10:23","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":19.63,"threshold":500}}
+{"timestamp":"2026-05-19T14:10:33","level":"INFO","message":"Heartbeat","data":{"freeRamMB":13.62,"activePid":null,"networkBytesPerSec":41971.09,"activeApp":null,"diskPercent":9335.47,"cpuPercent":99.61}}
+{"timestamp":"2026-05-19T14:10:33","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.61,"threshold":95}}
+{"timestamp":"2026-05-19T14:10:33","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":13.62,"threshold":500}}
+{"timestamp":"2026-05-19T14:10:42","level":"INFO","message":"Heartbeat","data":{"freeRamMB":482.01,"activePid":null,"networkBytesPerSec":134889.2,"activeApp":null,"diskPercent":1899.18,"cpuPercent":77.68}}
+{"timestamp":"2026-05-19T14:10:42","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":482.01,"threshold":500}}
+{"timestamp":"2026-05-19T14:10:50","level":"INFO","message":"Heartbeat","data":{"freeRamMB":128.93,"activePid":null,"networkBytesPerSec":79704.18,"activeApp":null,"diskPercent":6125.85,"cpuPercent":96.91}}
+{"timestamp":"2026-05-19T14:10:50","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":96.91,"threshold":95}}
+{"timestamp":"2026-05-19T14:10:50","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":128.93,"threshold":500}}
+{"timestamp":"2026-05-19T14:11:00","level":"INFO","message":"Heartbeat","data":{"freeRamMB":29.99,"activePid":null,"networkBytesPerSec":52968.63,"activeApp":null,"diskPercent":5805.43,"cpuPercent":96.12}}
+{"timestamp":"2026-05-19T14:11:00","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":96.12,"threshold":95}}
+{"timestamp":"2026-05-19T14:11:00","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":29.99,"threshold":500}}
+{"timestamp":"2026-05-19T14:11:11","level":"INFO","message":"Heartbeat","data":{"freeRamMB":523.47,"activePid":null,"networkBytesPerSec":42282.28,"activeApp":null,"diskPercent":1943.33,"cpuPercent":93.6}}
+{"timestamp":"2026-05-19T14:11:20","level":"INFO","message":"Heartbeat","data":{"freeRamMB":262.35,"activePid":null,"networkBytesPerSec":337728.41,"activeApp":null,"diskPercent":3704.35,"cpuPercent":87.72}}
+{"timestamp":"2026-05-19T14:11:20","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":262.35,"threshold":500}}
+{"timestamp":"2026-05-19T14:11:30","level":"INFO","message":"Heartbeat","data":{"freeRamMB":109.02,"activePid":null,"networkBytesPerSec":66385,"activeApp":null,"diskPercent":5388.45,"cpuPercent":98.46}}
+{"timestamp":"2026-05-19T14:11:30","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.46,"threshold":95}}
+{"timestamp":"2026-05-19T14:11:30","level":"ERROR","message":"Main loop error","data":{"error":"The process cannot access the file \u0027C:\\SmartWorkOptimizer\\logs\\2026-05-19.log\u0027 because it is being used by another process."}}
+{"timestamp":"2026-05-19T14:11:39","level":"INFO","message":"Heartbeat","data":{"freeRamMB":9.98,"activePid":null,"networkBytesPerSec":26819.84,"activeApp":null,"diskPercent":4644.51,"cpuPercent":98.44}}
+{"timestamp":"2026-05-19T14:11:40","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.44,"threshold":95}}
+{"timestamp":"2026-05-19T14:11:40","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":9.98,"threshold":500}}
+{"timestamp":"2026-05-19T14:11:48","level":"INFO","message":"Heartbeat","data":{"freeRamMB":669.46,"activePid":null,"networkBytesPerSec":132323.35,"activeApp":null,"diskPercent":2114.08,"cpuPercent":76.3}}
+{"timestamp":"2026-05-19T14:11:57","level":"INFO","message":"Heartbeat","data":{"freeRamMB":256.78,"activePid":null,"networkBytesPerSec":60183.13,"activeApp":null,"diskPercent":4721.45,"cpuPercent":90.77}}
+{"timestamp":"2026-05-19T14:11:57","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":256.78,"threshold":500}}
+{"timestamp":"2026-05-19T14:12:06","level":"INFO","message":"Heartbeat","data":{"freeRamMB":358.64,"activePid":null,"networkBytesPerSec":4092.61,"activeApp":null,"diskPercent":3110.24,"cpuPercent":43.72}}
+{"timestamp":"2026-05-19T14:12:06","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":358.64,"threshold":500}}
+{"timestamp":"2026-05-19T14:12:14","level":"INFO","message":"Heartbeat","data":{"freeRamMB":324.05,"activePid":null,"networkBytesPerSec":22971.74,"activeApp":null,"diskPercent":1863.04,"cpuPercent":60.7}}
+{"timestamp":"2026-05-19T14:12:15","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":324.05,"threshold":500}}
+{"timestamp":"2026-05-19T14:12:23","level":"INFO","message":"Heartbeat","data":{"freeRamMB":491.21,"activePid":null,"networkBytesPerSec":39916.72,"activeApp":null,"diskPercent":1574.49,"cpuPercent":62.92}}
+{"timestamp":"2026-05-19T14:12:23","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":491.21,"threshold":500}}
+{"timestamp":"2026-05-19T14:12:33","level":"INFO","message":"Heartbeat","data":{"freeRamMB":117.36,"activePid":null,"networkBytesPerSec":71053.91,"activeApp":null,"diskPercent":4946.63,"cpuPercent":100}}
+{"timestamp":"2026-05-19T14:12:33","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":95}}
+{"timestamp":"2026-05-19T14:12:33","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":117.36,"threshold":500}}
+{"timestamp":"2026-05-19T14:12:43","level":"INFO","message":"Heartbeat","data":{"freeRamMB":179.58,"activePid":null,"networkBytesPerSec":18615.25,"activeApp":null,"diskPercent":1985.95,"cpuPercent":99.43}}
+{"timestamp":"2026-05-19T14:12:43","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.43,"threshold":95}}
+{"timestamp":"2026-05-19T14:12:43","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":179.58,"threshold":500}}
+{"timestamp":"2026-05-19T14:12:52","level":"INFO","message":"Heartbeat","data":{"freeRamMB":106.61,"activePid":null,"networkBytesPerSec":163079,"activeApp":null,"diskPercent":3808.05,"cpuPercent":84.9}}
+{"timestamp":"2026-05-19T14:12:52","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":106.61,"threshold":500}}
+{"timestamp":"2026-05-19T14:13:03","level":"INFO","message":"Heartbeat","data":{"freeRamMB":11.23,"activePid":null,"networkBytesPerSec":33793.35,"activeApp":null,"diskPercent":8002.66,"cpuPercent":95.72}}
+{"timestamp":"2026-05-19T14:13:03","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":95.72,"threshold":95}}
+{"timestamp":"2026-05-19T14:13:03","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":11.23,"threshold":500}}
+{"timestamp":"2026-05-19T14:13:13","level":"INFO","message":"Heartbeat","data":{"freeRamMB":89.71,"activePid":null,"networkBytesPerSec":49651.44,"activeApp":null,"diskPercent":6814.16,"cpuPercent":96.15}}
+{"timestamp":"2026-05-19T14:13:13","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":96.15,"threshold":95}}
+{"timestamp":"2026-05-19T14:13:13","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":89.71,"threshold":500}}
+{"timestamp":"2026-05-19T14:13:23","level":"INFO","message":"Heartbeat","data":{"freeRamMB":949,"activePid":null,"networkBytesPerSec":23631.52,"activeApp":null,"diskPercent":11613.56,"cpuPercent":75.67}}
+{"timestamp":"2026-05-19T14:13:32","level":"INFO","message":"Heartbeat","data":{"freeRamMB":291.04,"activePid":null,"networkBytesPerSec":32175.51,"activeApp":null,"diskPercent":1607.19,"cpuPercent":34.33}}
+{"timestamp":"2026-05-19T14:13:32","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":291.04,"threshold":500}}
+{"timestamp":"2026-05-19T14:13:41","level":"INFO","message":"Heartbeat","data":{"freeRamMB":259.9,"activePid":null,"networkBytesPerSec":50709.29,"activeApp":null,"diskPercent":5313.65,"cpuPercent":99.61}}
+{"timestamp":"2026-05-19T14:13:41","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.61,"threshold":95}}
+{"timestamp":"2026-05-19T14:13:41","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":259.9,"threshold":500}}
+{"timestamp":"2026-05-19T14:13:51","level":"INFO","message":"Heartbeat","data":{"freeRamMB":66.46,"activePid":null,"networkBytesPerSec":22758.13,"activeApp":null,"diskPercent":5481.61,"cpuPercent":100}}
+{"timestamp":"2026-05-19T14:13:51","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":95}}
+{"timestamp":"2026-05-19T14:13:51","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":66.46,"threshold":500}}
+{"timestamp":"2026-05-19T14:14:01","level":"INFO","message":"Heartbeat","data":{"freeRamMB":69.56,"activePid":null,"networkBytesPerSec":29942.91,"activeApp":null,"diskPercent":4507.9,"cpuPercent":97.71}}
+{"timestamp":"2026-05-19T14:14:02","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":97.71,"threshold":95}}
+{"timestamp":"2026-05-19T14:14:02","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":69.56,"threshold":500}}
+{"timestamp":"2026-05-19T14:14:11","level":"INFO","message":"Heartbeat","data":{"freeRamMB":12.88,"activePid":null,"networkBytesPerSec":43570.18,"activeApp":null,"diskPercent":4816.47,"cpuPercent":99.42}}
+{"timestamp":"2026-05-19T14:14:11","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.42,"threshold":95}}
+{"timestamp":"2026-05-19T14:14:11","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":12.88,"threshold":500}}
+{"timestamp":"2026-05-19T14:14:22","level":"INFO","message":"Heartbeat","data":{"freeRamMB":270.88,"activePid":null,"networkBytesPerSec":58075.97,"activeApp":null,"diskPercent":3942.84,"cpuPercent":98.07}}
+{"timestamp":"2026-05-19T14:14:23","level":"ERROR","message":"Main loop error","data":{"error":"The process cannot access the file \u0027C:\\SmartWorkOptimizer\\logs\\2026-05-19.log\u0027 because it is being used by another process."}}
+{"timestamp":"2026-05-19T14:14:31","level":"INFO","message":"Heartbeat","data":{"freeRamMB":690.44,"activePid":null,"networkBytesPerSec":50980.2,"activeApp":null,"diskPercent":3729.57,"cpuPercent":62.04}}
+{"timestamp":"2026-05-19T14:14:41","level":"INFO","message":"Heartbeat","data":{"freeRamMB":164.7,"activePid":null,"networkBytesPerSec":46840.66,"activeApp":null,"diskPercent":970.27,"cpuPercent":97.27}}
+{"timestamp":"2026-05-19T14:14:41","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":97.27,"threshold":95}}
+{"timestamp":"2026-05-19T14:14:41","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":164.7,"threshold":500}}
+{"timestamp":"2026-05-19T14:14:50","level":"INFO","message":"Heartbeat","data":{"freeRamMB":3.86,"activePid":null,"networkBytesPerSec":4335.61,"activeApp":null,"diskPercent":2182.07,"cpuPercent":94.44}}
+{"timestamp":"2026-05-19T14:14:50","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":3.86,"threshold":500}}
+{"timestamp":"2026-05-19T14:14:59","level":"INFO","message":"Heartbeat","data":{"freeRamMB":884.13,"activePid":null,"networkBytesPerSec":3625.03,"activeApp":null,"diskPercent":5372.66,"cpuPercent":73.61}}
+{"timestamp":"2026-05-19T14:15:08","level":"INFO","message":"Heartbeat","data":{"freeRamMB":219.64,"activePid":null,"networkBytesPerSec":27795.81,"activeApp":null,"diskPercent":3994.01,"cpuPercent":93.53}}
+{"timestamp":"2026-05-19T14:15:08","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":219.64,"threshold":500}}
+{"timestamp":"2026-05-19T14:15:17","level":"INFO","message":"Heartbeat","data":{"freeRamMB":385.88,"activePid":null,"networkBytesPerSec":20345.13,"activeApp":null,"diskPercent":3647.52,"cpuPercent":80.19}}
+{"timestamp":"2026-05-19T14:15:17","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":385.88,"threshold":500}}
+{"timestamp":"2026-05-19T14:15:26","level":"INFO","message":"Heartbeat","data":{"freeRamMB":291.3,"activePid":null,"networkBytesPerSec":2899.51,"activeApp":null,"diskPercent":2989.2,"cpuPercent":88.49}}
+{"timestamp":"2026-05-19T14:15:26","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":291.3,"threshold":500}}
+{"timestamp":"2026-05-19T14:15:34","level":"INFO","message":"Heartbeat","data":{"freeRamMB":124.72,"activePid":null,"networkBytesPerSec":19618.02,"activeApp":null,"diskPercent":4118.53,"cpuPercent":94.55}}
+{"timestamp":"2026-05-19T14:15:34","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":124.72,"threshold":500}}
+{"timestamp":"2026-05-19T14:15:43","level":"INFO","message":"Heartbeat","data":{"freeRamMB":239.66,"activePid":null,"networkBytesPerSec":51664.85,"activeApp":null,"diskPercent":2338.42,"cpuPercent":89.72}}
+{"timestamp":"2026-05-19T14:15:43","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":239.66,"threshold":500}}
+{"timestamp":"2026-05-19T14:15:52","level":"INFO","message":"Heartbeat","data":{"freeRamMB":661.35,"activePid":null,"networkBytesPerSec":26691.64,"activeApp":null,"diskPercent":3877.77,"cpuPercent":75.63}}
+{"timestamp":"2026-05-19T14:16:01","level":"INFO","message":"Heartbeat","data":{"freeRamMB":720.59,"activePid":null,"networkBytesPerSec":21528.55,"activeApp":null,"diskPercent":2466.37,"cpuPercent":31.17}}
+{"timestamp":"2026-05-19T14:16:10","level":"INFO","message":"Heartbeat","data":{"freeRamMB":620.45,"activePid":null,"networkBytesPerSec":20068.67,"activeApp":null,"diskPercent":1489.41,"cpuPercent":47.42}}
+{"timestamp":"2026-05-19T14:16:18","level":"INFO","message":"Heartbeat","data":{"freeRamMB":466.53,"activePid":null,"networkBytesPerSec":16996.48,"activeApp":null,"diskPercent":1005.53,"cpuPercent":34.61}}
+{"timestamp":"2026-05-19T14:16:18","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":466.53,"threshold":500}}
+{"timestamp":"2026-05-19T14:16:27","level":"INFO","message":"Heartbeat","data":{"freeRamMB":323.95,"activePid":null,"networkBytesPerSec":27449.14,"activeApp":null,"diskPercent":914.68,"cpuPercent":54.22}}
+{"timestamp":"2026-05-19T14:16:27","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":323.95,"threshold":500}}
+{"timestamp":"2026-05-19T14:16:36","level":"INFO","message":"Heartbeat","data":{"freeRamMB":311.59,"activePid":null,"networkBytesPerSec":40815.42,"activeApp":null,"diskPercent":679.11,"cpuPercent":52.61}}
+{"timestamp":"2026-05-19T14:16:36","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":311.59,"threshold":500}}
+{"timestamp":"2026-05-19T14:16:44","level":"INFO","message":"Heartbeat","data":{"freeRamMB":403.93,"activePid":null,"networkBytesPerSec":4699.23,"activeApp":null,"diskPercent":691.06,"cpuPercent":47.66}}
+{"timestamp":"2026-05-19T14:16:44","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":403.93,"threshold":500}}
+{"timestamp":"2026-05-19T14:16:53","level":"INFO","message":"Heartbeat","data":{"freeRamMB":315.32,"activePid":null,"networkBytesPerSec":19004.73,"activeApp":null,"diskPercent":1177.25,"cpuPercent":57.83}}
+{"timestamp":"2026-05-19T14:16:53","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":315.32,"threshold":500}}
+{"timestamp":"2026-05-19T14:17:02","level":"INFO","message":"Heartbeat","data":{"freeRamMB":624.11,"activePid":null,"networkBytesPerSec":57922.96,"activeApp":null,"diskPercent":1889.09,"cpuPercent":86.56}}
+{"timestamp":"2026-05-19T14:17:12","level":"INFO","message":"Heartbeat","data":{"freeRamMB":276.47,"activePid":null,"networkBytesPerSec":13039.98,"activeApp":null,"diskPercent":570.96,"cpuPercent":99.23}}
+{"timestamp":"2026-05-19T14:17:12","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.23,"threshold":95}}
+{"timestamp":"2026-05-19T14:43:25","level":"INFO","message":"SmartWorkOptimizer started","data":{"dryRun":true,"scanIntervalSeconds":5}}
+{"timestamp":"2026-05-19T14:43:35","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":376.03,"activePid":null,"networkBytesPerSec":35656.52,"activeApp":"None","diskPercent":932.71,"cpuPercent":92.1}}
+{"timestamp":"2026-05-19T14:43:44","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":572.45,"activePid":null,"networkBytesPerSec":8671.92,"activeApp":"None","diskPercent":585.54,"cpuPercent":96.12}}
+{"timestamp":"2026-05-19T14:43:53","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":418.33,"activePid":null,"networkBytesPerSec":80413.41,"activeApp":"None","diskPercent":2252.99,"cpuPercent":96.51}}
+{"timestamp":"2026-05-19T14:44:01","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":379.8,"activePid":null,"networkBytesPerSec":6621.53,"activeApp":"None","diskPercent":672.86,"cpuPercent":69.05}}
+{"timestamp":"2026-05-19T14:44:10","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":321.37,"activePid":null,"networkBytesPerSec":23785.94,"activeApp":"None","diskPercent":922.03,"cpuPercent":76.51}}
+{"timestamp":"2026-05-19T14:44:19","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":205.56,"activePid":null,"networkBytesPerSec":7083.36,"activeApp":"None","diskPercent":883.6,"cpuPercent":78.79}}
+{"timestamp":"2026-05-19T14:44:28","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":672.53,"activePid":null,"networkBytesPerSec":4792.2,"activeApp":"None","diskPercent":757.34,"cpuPercent":59.94}}
+{"timestamp":"2026-05-19T14:44:36","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":427.75,"activePid":null,"networkBytesPerSec":14604.25,"activeApp":"None","diskPercent":903.91,"cpuPercent":81.15}}
+{"timestamp":"2026-05-19T14:44:45","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":267.08,"activePid":null,"networkBytesPerSec":42666.35,"activeApp":"None","diskPercent":815.52,"cpuPercent":87.42}}
+{"timestamp":"2026-05-19T14:44:54","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":344.88,"activePid":null,"networkBytesPerSec":5028.67,"activeApp":"None","diskPercent":1677.89,"cpuPercent":90.66}}
+{"timestamp":"2026-05-19T14:45:03","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":188.84,"activePid":null,"networkBytesPerSec":85051.33,"activeApp":"None","diskPercent":786.23,"cpuPercent":89.37}}
+{"timestamp":"2026-05-19T14:45:12","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":60.47,"activePid":null,"networkBytesPerSec":112404.44,"activeApp":"None","diskPercent":1592.04,"cpuPercent":90.09}}
+{"timestamp":"2026-05-19T14:45:12","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":60.47,"threshold":150}}
+{"timestamp":"2026-05-19T14:45:22","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":163.24,"activePid":null,"networkBytesPerSec":6927,"activeApp":"None","diskPercent":794.45,"cpuPercent":54.55}}
+{"timestamp":"2026-05-19T14:45:32","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":33.02,"activePid":null,"networkBytesPerSec":64221.81,"activeApp":"None","diskPercent":1253.45,"cpuPercent":94.37}}
+{"timestamp":"2026-05-19T14:45:32","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":33.02,"threshold":150}}
+{"timestamp":"2026-05-19T14:45:41","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":667.07,"activePid":null,"networkBytesPerSec":103680.69,"activeApp":"None","diskPercent":6207.63,"cpuPercent":81.66}}
+{"timestamp":"2026-05-19T14:45:50","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":259.29,"activePid":null,"networkBytesPerSec":242614.96,"activeApp":"None","diskPercent":1828.03,"cpuPercent":87.35}}
+{"timestamp":"2026-05-19T14:46:00","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":198.17,"activePid":null,"networkBytesPerSec":55139.2,"activeApp":"None","diskPercent":2559.93,"cpuPercent":91.12}}
+{"timestamp":"2026-05-19T14:46:09","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":89.69,"activePid":null,"networkBytesPerSec":14088.37,"activeApp":"None","diskPercent":989.65,"cpuPercent":93}}
+{"timestamp":"2026-05-19T14:46:10","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":89.69,"threshold":150}}
+{"timestamp":"2026-05-19T14:46:18","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":273.34,"activePid":null,"networkBytesPerSec":37640.51,"activeApp":"None","diskPercent":759.51,"cpuPercent":67.37}}
+{"timestamp":"2026-05-19T14:46:28","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":78.37,"activePid":null,"networkBytesPerSec":28894.1,"activeApp":"None","diskPercent":761.09,"cpuPercent":96.15}}
+{"timestamp":"2026-05-19T14:46:28","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":78.37,"threshold":150}}
+{"timestamp":"2026-05-19T14:46:37","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":518.9,"activePid":null,"networkBytesPerSec":28262.39,"activeApp":"None","diskPercent":1567.17,"cpuPercent":83.3}}
+{"timestamp":"2026-05-19T14:46:46","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":677.4,"activePid":null,"networkBytesPerSec":5231.85,"activeApp":"None","diskPercent":1501.62,"cpuPercent":79.59}}
+{"timestamp":"2026-05-19T14:46:55","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":454.1,"activePid":null,"networkBytesPerSec":7944.06,"activeApp":"None","diskPercent":1599.91,"cpuPercent":80.38}}
+{"timestamp":"2026-05-19T14:47:04","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":314.93,"activePid":null,"networkBytesPerSec":1174.18,"activeApp":"None","diskPercent":772.93,"cpuPercent":66.59}}
+{"timestamp":"2026-05-19T14:47:13","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":37.79,"activePid":null,"networkBytesPerSec":6609.52,"activeApp":"None","diskPercent":1505.52,"cpuPercent":97.49}}
+{"timestamp":"2026-05-19T14:47:13","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":37.79,"threshold":150}}
+{"timestamp":"2026-05-19T14:47:22","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":928.08,"activePid":null,"networkBytesPerSec":9778.06,"activeApp":"None","diskPercent":2428.66,"cpuPercent":56.43}}
+{"timestamp":"2026-05-19T14:47:31","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":331.93,"activePid":null,"networkBytesPerSec":11040.91,"activeApp":"None","diskPercent":1495.44,"cpuPercent":76.51}}
+{"timestamp":"2026-05-19T14:47:40","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":231.69,"activePid":null,"networkBytesPerSec":2960.8,"activeApp":"None","diskPercent":1007.45,"cpuPercent":83.66}}
+{"timestamp":"2026-05-19T14:47:48","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":60.19,"activePid":null,"networkBytesPerSec":219628.8,"activeApp":"None","diskPercent":908.15,"cpuPercent":99.61}}
+{"timestamp":"2026-05-19T14:47:48","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.61,"threshold":98}}
+{"timestamp":"2026-05-19T14:47:49","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":60.19,"threshold":150}}
+{"timestamp":"2026-05-19T14:47:57","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":641.98,"activePid":null,"networkBytesPerSec":11112.75,"activeApp":"None","diskPercent":6348.37,"cpuPercent":78.99}}
+{"timestamp":"2026-05-19T14:48:06","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":347.45,"activePid":null,"networkBytesPerSec":181484.25,"activeApp":"None","diskPercent":1418.25,"cpuPercent":98.45}}
+{"timestamp":"2026-05-19T14:48:06","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.45,"threshold":98}}
+{"timestamp":"2026-05-19T14:48:15","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":212.23,"activePid":null,"networkBytesPerSec":45129.04,"activeApp":"None","diskPercent":1133.89,"cpuPercent":93.46}}
+{"timestamp":"2026-05-19T14:48:24","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":266.37,"activePid":null,"networkBytesPerSec":89391.37,"activeApp":"None","diskPercent":939.85,"cpuPercent":90.83}}
+{"timestamp":"2026-05-19T14:48:33","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":384.77,"activePid":null,"networkBytesPerSec":22716.04,"activeApp":"None","diskPercent":913.5,"cpuPercent":82.32}}
+{"timestamp":"2026-05-19T14:48:42","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":389.96,"activePid":null,"networkBytesPerSec":114118.11,"activeApp":"None","diskPercent":1255.61,"cpuPercent":92.63}}
+{"timestamp":"2026-05-19T14:48:51","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":143.27,"activePid":null,"networkBytesPerSec":8012.98,"activeApp":"None","diskPercent":1083.36,"cpuPercent":98.84}}
+{"timestamp":"2026-05-19T14:48:51","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.84,"threshold":98}}
+{"timestamp":"2026-05-19T14:48:51","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":143.27,"threshold":150}}
+{"timestamp":"2026-05-19T14:48:59","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":494.57,"activePid":null,"networkBytesPerSec":64816.68,"activeApp":"None","diskPercent":1621.64,"cpuPercent":74.85}}
+{"timestamp":"2026-05-19T14:49:08","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":244.82,"activePid":null,"networkBytesPerSec":59760.87,"activeApp":"None","diskPercent":925.55,"cpuPercent":66.6}}
+{"timestamp":"2026-05-19T14:49:17","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":456.04,"activePid":null,"networkBytesPerSec":91579.89,"activeApp":"None","diskPercent":1051.82,"cpuPercent":45.96}}
+{"timestamp":"2026-05-19T14:49:25","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":340.45,"activePid":null,"networkBytesPerSec":2802.37,"activeApp":"None","diskPercent":920.13,"cpuPercent":84.81}}
+{"timestamp":"2026-05-19T14:49:34","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":274.39,"activePid":null,"networkBytesPerSec":194840.79,"activeApp":"None","diskPercent":1114.44,"cpuPercent":88.98}}
+{"timestamp":"2026-05-19T14:49:43","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":435.86,"activePid":null,"networkBytesPerSec":109589.47,"activeApp":"None","diskPercent":1269.06,"cpuPercent":84.47}}
+{"timestamp":"2026-05-19T14:49:52","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":127.82,"activePid":null,"networkBytesPerSec":19454.5,"activeApp":"None","diskPercent":2342.72,"cpuPercent":100}}
+{"timestamp":"2026-05-19T14:49:52","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T14:49:53","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":127.82,"threshold":150}}
+{"timestamp":"2026-05-19T14:50:03","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":551.11,"activePid":null,"networkBytesPerSec":22924.86,"activeApp":"None","diskPercent":1418.21,"cpuPercent":91.65}}
+{"timestamp":"2026-05-19T14:50:12","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":306.74,"activePid":null,"networkBytesPerSec":172258.63,"activeApp":"None","diskPercent":960.26,"cpuPercent":91.84}}
+{"timestamp":"2026-05-19T14:50:22","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":150.35,"activePid":null,"networkBytesPerSec":115657.91,"activeApp":"None","diskPercent":506.1,"cpuPercent":100}}
+{"timestamp":"2026-05-19T14:51:51","level":"INFO","message":"SmartWorkOptimizer started","data":{"dryRun":true,"scanIntervalSeconds":5}}
+{"timestamp":"2026-05-19T14:51:56","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":340.48,"activePid":7988,"networkBytesPerSec":8931.18,"activeApp":"windowsterminal","diskPercent":758.71,"cpuPercent":92.44}}
+{"timestamp":"2026-05-19T14:52:05","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":559.37,"activePid":7988,"networkBytesPerSec":21176.1,"activeApp":"windowsterminal","diskPercent":710.62,"cpuPercent":56.86}}
+{"timestamp":"2026-05-19T14:52:15","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":261.66,"activePid":36724,"networkBytesPerSec":4947.49,"activeApp":"code","diskPercent":679.02,"cpuPercent":63.26}}
+{"timestamp":"2026-05-19T14:52:25","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":12.7,"activePid":20192,"networkBytesPerSec":23985.74,"activeApp":"m365copilot","diskPercent":467.35,"cpuPercent":100}}
+{"timestamp":"2026-05-19T14:52:26","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T14:52:26","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":12.7,"threshold":150}}
+{"timestamp":"2026-05-19T14:52:36","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":343.57,"activePid":20192,"networkBytesPerSec":405389.57,"activeApp":"m365copilot","diskPercent":2048.11,"cpuPercent":70.06}}
+{"timestamp":"2026-05-19T14:52:45","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":349.35,"activePid":20192,"networkBytesPerSec":4974.19,"activeApp":"m365copilot","diskPercent":1186.05,"cpuPercent":97.48}}
+{"timestamp":"2026-05-19T14:52:53","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":151.11,"activePid":20192,"networkBytesPerSec":6890.2,"activeApp":"m365copilot","diskPercent":415.95,"cpuPercent":89.51}}
+{"timestamp":"2026-05-19T14:53:03","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":258.09,"activePid":20192,"networkBytesPerSec":28691.41,"activeApp":"m365copilot","diskPercent":875.3,"cpuPercent":98.06}}
+{"timestamp":"2026-05-19T14:53:03","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.06,"threshold":98}}
+{"timestamp":"2026-05-19T14:53:12","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":60.31,"activePid":20192,"networkBytesPerSec":23099.3,"activeApp":"m365copilot","diskPercent":320.94,"cpuPercent":98.85}}
+{"timestamp":"2026-05-19T14:53:12","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.85,"threshold":98}}
+{"timestamp":"2026-05-19T14:53:12","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":60.31,"threshold":150}}
+{"timestamp":"2026-05-19T14:53:20","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":740.98,"activePid":20192,"networkBytesPerSec":14003.88,"activeApp":"m365copilot","diskPercent":1548.24,"cpuPercent":48.28}}
+{"timestamp":"2026-05-19T14:53:30","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":371.66,"activePid":20192,"networkBytesPerSec":209097.62,"activeApp":"m365copilot","diskPercent":895.04,"cpuPercent":77.03}}
+{"timestamp":"2026-05-19T14:53:39","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":227.11,"activePid":20192,"networkBytesPerSec":176284.04,"activeApp":"m365copilot","diskPercent":466.62,"cpuPercent":96.69}}
+{"timestamp":"2026-05-19T14:53:50","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":557.5,"activePid":20192,"networkBytesPerSec":301919.34,"activeApp":"m365copilot","diskPercent":612.33,"cpuPercent":93.1}}
+{"timestamp":"2026-05-19T14:53:58","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":328.21,"activePid":20192,"networkBytesPerSec":80459.52,"activeApp":"m365copilot","diskPercent":541.59,"cpuPercent":96.54}}
+{"timestamp":"2026-05-19T14:54:07","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":302.34,"activePid":20192,"networkBytesPerSec":3726.87,"activeApp":"m365copilot","diskPercent":533.01,"cpuPercent":61.77}}
+{"timestamp":"2026-05-19T14:54:16","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":471.72,"activePid":20192,"networkBytesPerSec":498725.68,"activeApp":"m365copilot","diskPercent":890.13,"cpuPercent":83.84}}
+{"timestamp":"2026-05-19T14:54:25","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":362.38,"activePid":7988,"networkBytesPerSec":27240.9,"activeApp":"windowsterminal","diskPercent":595.15,"cpuPercent":93.63}}
+{"timestamp":"2026-05-19T14:54:33","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":321.47,"activePid":7988,"networkBytesPerSec":13058.11,"activeApp":"windowsterminal","diskPercent":925.91,"cpuPercent":78.59}}
+{"timestamp":"2026-05-19T14:54:42","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":281.31,"activePid":20192,"networkBytesPerSec":40015.86,"activeApp":"m365copilot","diskPercent":713.2,"cpuPercent":99.61}}
+{"timestamp":"2026-05-19T14:54:42","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.61,"threshold":98}}
+{"timestamp":"2026-05-19T14:54:51","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":349.54,"activePid":20192,"networkBytesPerSec":501332.59,"activeApp":"m365copilot","diskPercent":476.17,"cpuPercent":91.7}}
+{"timestamp":"2026-05-19T14:55:01","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":224.21,"activePid":20192,"networkBytesPerSec":24704.54,"activeApp":"m365copilot","diskPercent":1778.79,"cpuPercent":100}}
+{"timestamp":"2026-05-19T14:55:01","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T14:55:10","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":250.76,"activePid":35104,"networkBytesPerSec":446082.53,"activeApp":"taskmgr","diskPercent":1594.49,"cpuPercent":100}}
+{"timestamp":"2026-05-19T14:55:10","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T14:55:19","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":419.63,"activePid":35104,"networkBytesPerSec":53096.27,"activeApp":"taskmgr","diskPercent":1270.04,"cpuPercent":73.14}}
+{"timestamp":"2026-05-19T14:55:27","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":314.98,"activePid":35104,"networkBytesPerSec":526174.4,"activeApp":"taskmgr","diskPercent":509.87,"cpuPercent":87.36}}
+{"timestamp":"2026-05-19T14:55:37","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":21.95,"activePid":20192,"networkBytesPerSec":80712.34,"activeApp":"m365copilot","diskPercent":657.59,"cpuPercent":83.54}}
+{"timestamp":"2026-05-19T14:55:37","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":21.95,"threshold":150}}
+{"timestamp":"2026-05-19T14:55:46","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":330.23,"activePid":20192,"networkBytesPerSec":524276.83,"activeApp":"m365copilot","diskPercent":1770.59,"cpuPercent":73.41}}
+{"timestamp":"2026-05-19T14:55:56","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":222.33,"activePid":20192,"networkBytesPerSec":59713.74,"activeApp":"m365copilot","diskPercent":1955.3,"cpuPercent":100}}
+{"timestamp":"2026-05-19T14:55:56","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T14:56:05","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":360.7,"activePid":20192,"networkBytesPerSec":385465.93,"activeApp":"m365copilot","diskPercent":2082.71,"cpuPercent":100}}
+{"timestamp":"2026-05-19T14:56:05","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T14:56:13","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":296.64,"activePid":20192,"networkBytesPerSec":82681.29,"activeApp":"m365copilot","diskPercent":1709.34,"cpuPercent":98.64}}
+{"timestamp":"2026-05-19T14:56:13","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.64,"threshold":98}}
+{"timestamp":"2026-05-19T14:56:23","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":437.52,"activePid":20192,"networkBytesPerSec":88060.54,"activeApp":"m365copilot","diskPercent":686.79,"cpuPercent":96.33}}
+{"timestamp":"2026-05-19T14:56:33","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":45.12,"activePid":20192,"networkBytesPerSec":41590.71,"activeApp":"m365copilot","diskPercent":2386.04,"cpuPercent":99.81}}
+{"timestamp":"2026-05-19T14:56:33","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.81,"threshold":98}}
+{"timestamp":"2026-05-19T14:56:33","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":45.12,"threshold":150}}
+{"timestamp":"2026-05-19T14:56:43","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":345.99,"activePid":20192,"networkBytesPerSec":30182.6,"activeApp":"m365copilot","diskPercent":3678.49,"cpuPercent":88.87}}
+{"timestamp":"2026-05-19T14:56:53","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":448.7,"activePid":20192,"networkBytesPerSec":7980.2,"activeApp":"m365copilot","diskPercent":2610.91,"cpuPercent":100}}
+{"timestamp":"2026-05-19T14:56:53","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T14:57:02","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":352.98,"activePid":20192,"networkBytesPerSec":46208.48,"activeApp":"m365copilot","diskPercent":1232.93,"cpuPercent":96.73}}
+{"timestamp":"2026-05-19T14:57:12","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":52.1,"activePid":20192,"networkBytesPerSec":274973.17,"activeApp":"m365copilot","diskPercent":753.48,"cpuPercent":98.85}}
+{"timestamp":"2026-05-19T14:57:12","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.85,"threshold":98}}
+{"timestamp":"2026-05-19T14:57:12","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":52.1,"threshold":150}}
+{"timestamp":"2026-05-19T14:57:22","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":176.79,"activePid":20192,"networkBytesPerSec":2288.57,"activeApp":"m365copilot","diskPercent":2433.8,"cpuPercent":88.99}}
+{"timestamp":"2026-05-19T14:57:32","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":337.72,"activePid":20192,"networkBytesPerSec":131848.18,"activeApp":"m365copilot","diskPercent":2862.83,"cpuPercent":88.62}}
+{"timestamp":"2026-05-19T14:57:40","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":277.33,"activePid":20192,"networkBytesPerSec":188666.05,"activeApp":"m365copilot","diskPercent":2060.94,"cpuPercent":100}}
+{"timestamp":"2026-05-19T14:57:40","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T14:57:49","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":279.33,"activePid":20192,"networkBytesPerSec":573216.31,"activeApp":"m365copilot","diskPercent":1503.74,"cpuPercent":79.95}}
+{"timestamp":"2026-05-19T14:57:58","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":261.25,"activePid":20192,"networkBytesPerSec":8610.96,"activeApp":"m365copilot","diskPercent":1151.59,"cpuPercent":69.25}}
+{"timestamp":"2026-05-19T14:58:07","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":38.3,"activePid":36724,"networkBytesPerSec":69511.44,"activeApp":"code","diskPercent":1349.6,"cpuPercent":86.18}}
+{"timestamp":"2026-05-19T14:58:07","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":38.3,"threshold":150}}
+{"timestamp":"2026-05-19T14:58:16","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":464.18,"activePid":36724,"networkBytesPerSec":1306.84,"activeApp":"code","diskPercent":990.75,"cpuPercent":75.81}}
+{"timestamp":"2026-05-19T14:58:25","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":410.71,"activePid":36724,"networkBytesPerSec":15631.41,"activeApp":"code","diskPercent":880.82,"cpuPercent":83.13}}
+{"timestamp":"2026-05-19T14:58:33","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":433.56,"activePid":36724,"networkBytesPerSec":7565.08,"activeApp":"code","diskPercent":1075.16,"cpuPercent":74.97}}
+{"timestamp":"2026-05-19T14:58:42","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":368.02,"activePid":36724,"networkBytesPerSec":15948.71,"activeApp":"code","diskPercent":731.92,"cpuPercent":79.32}}
+{"timestamp":"2026-05-19T14:58:51","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":434.21,"activePid":36724,"networkBytesPerSec":4310.19,"activeApp":"code","diskPercent":856.53,"cpuPercent":69.73}}
+{"timestamp":"2026-05-19T14:58:59","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":349.95,"activePid":36724,"networkBytesPerSec":5412.67,"activeApp":"code","diskPercent":751,"cpuPercent":65.96}}
+{"timestamp":"2026-05-19T14:59:08","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":309.73,"activePid":36724,"networkBytesPerSec":2950.93,"activeApp":"code","diskPercent":662.93,"cpuPercent":80.09}}
+{"timestamp":"2026-05-19T14:59:17","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":605.43,"activePid":36724,"networkBytesPerSec":32372.05,"activeApp":"code","diskPercent":743.61,"cpuPercent":87.16}}
+{"timestamp":"2026-05-19T14:59:25","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":473.19,"activePid":36724,"networkBytesPerSec":8243.45,"activeApp":"code","diskPercent":852.04,"cpuPercent":81.56}}
+{"timestamp":"2026-05-19T14:59:34","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":480.41,"activePid":36724,"networkBytesPerSec":4507.25,"activeApp":"code","diskPercent":656.19,"cpuPercent":80.59}}
+{"timestamp":"2026-05-19T14:59:43","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":405.82,"activePid":36724,"networkBytesPerSec":12607.55,"activeApp":"code","diskPercent":465.95,"cpuPercent":68.96}}
+{"timestamp":"2026-05-19T14:59:51","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":331.12,"activePid":36724,"networkBytesPerSec":4183.69,"activeApp":"code","diskPercent":594.83,"cpuPercent":86.95}}
+{"timestamp":"2026-05-19T15:00:00","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":288.34,"activePid":36724,"networkBytesPerSec":32187.09,"activeApp":"code","diskPercent":624.39,"cpuPercent":72.09}}
+{"timestamp":"2026-05-19T15:00:09","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":319.66,"activePid":36724,"networkBytesPerSec":4054.74,"activeApp":"code","diskPercent":1048.85,"cpuPercent":61.1}}
+{"timestamp":"2026-05-19T15:00:17","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":286.8,"activePid":36724,"networkBytesPerSec":3410.15,"activeApp":"code","diskPercent":726.07,"cpuPercent":46.85}}
+{"timestamp":"2026-05-19T15:00:26","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":260.63,"activePid":36724,"networkBytesPerSec":16877.01,"activeApp":"code","diskPercent":677.27,"cpuPercent":65.97}}
+{"timestamp":"2026-05-19T15:00:35","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":403.16,"activePid":36724,"networkBytesPerSec":23676.62,"activeApp":"code","diskPercent":1341.88,"cpuPercent":74.57}}
+{"timestamp":"2026-05-19T15:00:43","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":328.09,"activePid":36724,"networkBytesPerSec":9792.96,"activeApp":"code","diskPercent":1200.05,"cpuPercent":75.45}}
+{"timestamp":"2026-05-19T15:00:52","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":312.72,"activePid":36724,"networkBytesPerSec":4305.34,"activeApp":"code","diskPercent":1076.95,"cpuPercent":59.93}}
+{"timestamp":"2026-05-19T15:01:01","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":298.3,"activePid":36724,"networkBytesPerSec":32796.56,"activeApp":"code","diskPercent":1275.57,"cpuPercent":76.58}}
+{"timestamp":"2026-05-19T15:01:09","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":325.03,"activePid":36724,"networkBytesPerSec":6063.17,"activeApp":"code","diskPercent":750.27,"cpuPercent":73.45}}
+{"timestamp":"2026-05-19T15:01:18","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":399.02,"activePid":36724,"networkBytesPerSec":13811.23,"activeApp":"code","diskPercent":631.42,"cpuPercent":74.82}}
+{"timestamp":"2026-05-19T15:01:27","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":395.79,"activePid":36724,"networkBytesPerSec":5228,"activeApp":"code","diskPercent":741.82,"cpuPercent":99.43}}
+{"timestamp":"2026-05-19T15:01:27","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.43,"threshold":98}}
+{"timestamp":"2026-05-19T15:01:36","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":258.95,"activePid":24204,"networkBytesPerSec":6224.3,"activeApp":"chrome","diskPercent":1224.32,"cpuPercent":96.7}}
+{"timestamp":"2026-05-19T15:01:39","level":"WARN","message":"Desired process no longer exists (PID 24204)","data":{"process":"chrome","pid":24204}}
+{"timestamp":"2026-05-19T15:01:39","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:01:49","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":202.4,"activePid":16796,"networkBytesPerSec":3885.02,"activeApp":"ms-teams","diskPercent":617.05,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:01:49","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:01:58","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":278.88,"activePid":16796,"networkBytesPerSec":4406.08,"activeApp":"ms-teams","diskPercent":1630.86,"cpuPercent":97.86}}
+{"timestamp":"2026-05-19T15:02:08","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":178.71,"activePid":16796,"networkBytesPerSec":11446.56,"activeApp":"ms-teams","diskPercent":1291.05,"cpuPercent":98.64}}
+{"timestamp":"2026-05-19T15:02:08","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.64,"threshold":98}}
+{"timestamp":"2026-05-19T15:02:17","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":96.86,"activePid":16796,"networkBytesPerSec":14106.2,"activeApp":"ms-teams","diskPercent":9421.86,"cpuPercent":81.15}}
+{"timestamp":"2026-05-19T15:02:17","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":96.86,"threshold":150}}
+{"timestamp":"2026-05-19T15:02:27","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":139.78,"activePid":9240,"networkBytesPerSec":335460.56,"activeApp":"olk","diskPercent":5597.48,"cpuPercent":79.8}}
+{"timestamp":"2026-05-19T15:02:28","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":139.78,"threshold":150}}
+{"timestamp":"2026-05-19T15:02:36","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":215.29,"activePid":9240,"networkBytesPerSec":478351.01,"activeApp":"olk","diskPercent":5510.34,"cpuPercent":96.5}}
+{"timestamp":"2026-05-19T15:02:47","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":289.9,"activePid":9240,"networkBytesPerSec":18993.89,"activeApp":"olk","diskPercent":1408.51,"cpuPercent":99.61}}
+{"timestamp":"2026-05-19T15:02:47","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.61,"threshold":98}}
+{"timestamp":"2026-05-19T15:02:56","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":191.78,"activePid":9240,"networkBytesPerSec":26078.36,"activeApp":"olk","diskPercent":3485.48,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:02:56","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:03:04","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":123.8,"activePid":9240,"networkBytesPerSec":62468.37,"activeApp":"olk","diskPercent":2268.22,"cpuPercent":98.27}}
+{"timestamp":"2026-05-19T15:03:04","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.27,"threshold":98}}
+{"timestamp":"2026-05-19T15:03:04","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":123.8,"threshold":150}}
+{"timestamp":"2026-05-19T15:03:13","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":187.97,"activePid":9240,"networkBytesPerSec":151177.17,"activeApp":"olk","diskPercent":1744.79,"cpuPercent":89.56}}
+{"timestamp":"2026-05-19T15:03:24","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":87.94,"activePid":null,"networkBytesPerSec":186805.3,"activeApp":"None","diskPercent":3152.97,"cpuPercent":99.04}}
+{"timestamp":"2026-05-19T15:03:24","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.04,"threshold":98}}
+{"timestamp":"2026-05-19T15:03:24","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":87.94,"threshold":150}}
+{"timestamp":"2026-05-19T15:03:35","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":49.57,"activePid":9240,"networkBytesPerSec":14505.82,"activeApp":"olk","diskPercent":1882.19,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:03:35","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:03:35","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":49.57,"threshold":150}}
+{"timestamp":"2026-05-19T15:03:45","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":243.84,"activePid":4304,"networkBytesPerSec":14844.55,"activeApp":"msedge","diskPercent":2100.69,"cpuPercent":99.23}}
+{"timestamp":"2026-05-19T15:03:45","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.23,"threshold":98}}
+{"timestamp":"2026-05-19T15:03:57","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":162.38,"activePid":20192,"networkBytesPerSec":12088.53,"activeApp":"m365copilot","diskPercent":2541.59,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:03:57","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:04:07","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":139.92,"activePid":20192,"networkBytesPerSec":12958.31,"activeApp":"m365copilot","diskPercent":1793.6,"cpuPercent":99.81}}
+{"timestamp":"2026-05-19T15:04:07","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.81,"threshold":98}}
+{"timestamp":"2026-05-19T15:04:07","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":139.92,"threshold":150}}
+{"timestamp":"2026-05-19T15:04:18","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":203.59,"activePid":20192,"networkBytesPerSec":5665.96,"activeApp":"m365copilot","diskPercent":3987.88,"cpuPercent":96.12}}
+{"timestamp":"2026-05-19T15:04:27","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":179.7,"activePid":20192,"networkBytesPerSec":843059.35,"activeApp":"m365copilot","diskPercent":6342.43,"cpuPercent":98.64}}
+{"timestamp":"2026-05-19T15:04:28","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.64,"threshold":98}}
+{"timestamp":"2026-05-19T15:04:38","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":12.89,"activePid":36724,"networkBytesPerSec":27933.96,"activeApp":"code","diskPercent":3391.06,"cpuPercent":76.9}}
+{"timestamp":"2026-05-19T15:04:38","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":12.89,"threshold":150}}
+{"timestamp":"2026-05-19T15:04:47","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":199.31,"activePid":36724,"networkBytesPerSec":29693.35,"activeApp":"code","diskPercent":3950.4,"cpuPercent":99.04}}
+{"timestamp":"2026-05-19T15:04:47","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.04,"threshold":98}}
+{"timestamp":"2026-05-19T15:04:57","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":278.93,"activePid":36724,"networkBytesPerSec":1464.89,"activeApp":"code","diskPercent":5788.42,"cpuPercent":98.64}}
+{"timestamp":"2026-05-19T15:04:57","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.64,"threshold":98}}
+{"timestamp":"2026-05-19T15:05:06","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":254.91,"activePid":36724,"networkBytesPerSec":25131.55,"activeApp":"code","diskPercent":3287.38,"cpuPercent":97.66}}
+{"timestamp":"2026-05-19T15:05:15","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":98.68,"activePid":20192,"networkBytesPerSec":1295.88,"activeApp":"m365copilot","diskPercent":3557.92,"cpuPercent":93.84}}
+{"timestamp":"2026-05-19T15:05:16","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":98.68,"threshold":150}}
+{"timestamp":"2026-05-19T15:05:29","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":13.05,"activePid":5888,"networkBytesPerSec":378210.13,"activeApp":"explorer","diskPercent":1825.14,"cpuPercent":95.92}}
+{"timestamp":"2026-05-19T15:05:30","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":13.05,"threshold":150}}
+{"timestamp":"2026-05-19T15:05:40","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":127.9,"activePid":24204,"networkBytesPerSec":15864.89,"activeApp":"chrome","diskPercent":2094.88,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:05:40","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:05:40","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":127.9,"threshold":150}}
+{"timestamp":"2026-05-19T15:05:50","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":187.04,"activePid":24204,"networkBytesPerSec":397162.92,"activeApp":"chrome","diskPercent":3252.44,"cpuPercent":99.23}}
+{"timestamp":"2026-05-19T15:05:50","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.23,"threshold":98}}
+{"timestamp":"2026-05-19T15:05:59","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":156.62,"activePid":24204,"networkBytesPerSec":3932.19,"activeApp":"chrome","diskPercent":6095.31,"cpuPercent":98.84}}
+{"timestamp":"2026-05-19T15:05:59","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.84,"threshold":98}}
+{"timestamp":"2026-05-19T15:06:08","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":615.36,"activePid":36724,"networkBytesPerSec":2215.79,"activeApp":"code","diskPercent":6377.77,"cpuPercent":99.62}}
+{"timestamp":"2026-05-19T15:06:08","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.62,"threshold":98}}
+{"timestamp":"2026-05-19T15:06:17","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":300.21,"activePid":36724,"networkBytesPerSec":637489.5,"activeApp":"code","diskPercent":2503.75,"cpuPercent":99.61}}
+{"timestamp":"2026-05-19T15:06:17","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.61,"threshold":98}}
+{"timestamp":"2026-05-19T15:06:26","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":232.71,"activePid":36724,"networkBytesPerSec":79416.25,"activeApp":"code","diskPercent":2560.46,"cpuPercent":91.07}}
+{"timestamp":"2026-05-19T15:06:35","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":270.17,"activePid":36724,"networkBytesPerSec":6357.2,"activeApp":"code","diskPercent":2103.91,"cpuPercent":92.41}}
+{"timestamp":"2026-05-19T15:06:44","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":251.59,"activePid":24204,"networkBytesPerSec":58345.65,"activeApp":"chrome","diskPercent":2259.22,"cpuPercent":82.77}}
+{"timestamp":"2026-05-19T15:06:45","level":"WARN","message":"Desired process no longer exists (PID 24204)","data":{"process":"chrome","pid":24204}}
+{"timestamp":"2026-05-19T15:06:45","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:06:55","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":163.91,"activePid":36724,"networkBytesPerSec":56588.23,"activeApp":"code","diskPercent":1539.93,"cpuPercent":97.11}}
+{"timestamp":"2026-05-19T15:07:03","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":142.43,"activePid":36724,"networkBytesPerSec":9497.72,"activeApp":"code","diskPercent":1624.42,"cpuPercent":62.76}}
+{"timestamp":"2026-05-19T15:07:03","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":142.43,"threshold":150}}
+{"timestamp":"2026-05-19T15:07:12","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":398.98,"activePid":36724,"networkBytesPerSec":21007.45,"activeApp":"code","diskPercent":2061.28,"cpuPercent":82.28}}
+{"timestamp":"2026-05-19T15:07:21","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":362.52,"activePid":36724,"networkBytesPerSec":180569.7,"activeApp":"code","diskPercent":1278.69,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:07:21","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:07:30","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":309.16,"activePid":36724,"networkBytesPerSec":33732.83,"activeApp":"code","diskPercent":1642.59,"cpuPercent":99.61}}
+{"timestamp":"2026-05-19T15:07:30","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.61,"threshold":98}}
+{"timestamp":"2026-05-19T15:07:39","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":171.09,"activePid":36724,"networkBytesPerSec":32719.34,"activeApp":"code","diskPercent":1977.94,"cpuPercent":95.16}}
+{"timestamp":"2026-05-19T15:07:48","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":345.21,"activePid":36724,"networkBytesPerSec":2419.93,"activeApp":"code","diskPercent":2012.88,"cpuPercent":63.17}}
+{"timestamp":"2026-05-19T15:07:56","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":228.21,"activePid":36724,"networkBytesPerSec":29260.76,"activeApp":"code","diskPercent":1265.18,"cpuPercent":81.03}}
+{"timestamp":"2026-05-19T15:08:08","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":250.41,"activePid":36724,"networkBytesPerSec":620565.35,"activeApp":"code","diskPercent":2256,"cpuPercent":97.3}}
+{"timestamp":"2026-05-19T15:08:18","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":275.54,"activePid":36724,"networkBytesPerSec":1220.41,"activeApp":"code","diskPercent":1413.46,"cpuPercent":96.7}}
+{"timestamp":"2026-05-19T15:08:27","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":268.21,"activePid":36724,"networkBytesPerSec":8026.86,"activeApp":"code","diskPercent":2815.54,"cpuPercent":98.06}}
+{"timestamp":"2026-05-19T15:08:27","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.06,"threshold":98}}
+{"timestamp":"2026-05-19T15:08:37","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":108.32,"activePid":20192,"networkBytesPerSec":2162.11,"activeApp":"m365copilot","diskPercent":2327.84,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:08:37","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:08:37","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":108.32,"threshold":150}}
+{"timestamp":"2026-05-19T15:08:48","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":11.37,"activePid":36724,"networkBytesPerSec":677097.26,"activeApp":"code","diskPercent":1925.24,"cpuPercent":88.43}}
+{"timestamp":"2026-05-19T15:08:48","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":11.37,"threshold":150}}
+{"timestamp":"2026-05-19T15:08:59","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":64.92,"activePid":20192,"networkBytesPerSec":126717.43,"activeApp":"m365copilot","diskPercent":2294.25,"cpuPercent":96.91}}
+{"timestamp":"2026-05-19T15:08:59","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":64.92,"threshold":150}}
+{"timestamp":"2026-05-19T15:09:09","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":9.97,"activePid":20192,"networkBytesPerSec":9207.79,"activeApp":"m365copilot","diskPercent":5632.05,"cpuPercent":94.62}}
+{"timestamp":"2026-05-19T15:09:09","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":9.97,"threshold":150}}
+{"timestamp":"2026-05-19T15:09:18","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":33.13,"activePid":20192,"networkBytesPerSec":6105.06,"activeApp":"m365copilot","diskPercent":7919.54,"cpuPercent":99.22}}
+{"timestamp":"2026-05-19T15:09:18","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.22,"threshold":98}}
+{"timestamp":"2026-05-19T15:09:19","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":33.13,"threshold":150}}
+{"timestamp":"2026-05-19T15:09:27","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":314.17,"activePid":20192,"networkBytesPerSec":477157.46,"activeApp":"m365copilot","diskPercent":13879.18,"cpuPercent":59.24}}
+{"timestamp":"2026-05-19T15:09:36","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":374.54,"activePid":7988,"networkBytesPerSec":818296.15,"activeApp":"windowsterminal","diskPercent":2698.6,"cpuPercent":98.25}}
+{"timestamp":"2026-05-19T15:09:36","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.25,"threshold":98}}
+{"timestamp":"2026-05-19T15:09:45","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":316.58,"activePid":7988,"networkBytesPerSec":17862.54,"activeApp":"windowsterminal","diskPercent":3590.15,"cpuPercent":77.15}}
+{"timestamp":"2026-05-19T15:09:54","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":270.42,"activePid":7988,"networkBytesPerSec":5449.14,"activeApp":"windowsterminal","diskPercent":1361.95,"cpuPercent":74.39}}
+{"timestamp":"2026-05-19T15:10:03","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":41.39,"activePid":5888,"networkBytesPerSec":193946.92,"activeApp":"explorer","diskPercent":1951.32,"cpuPercent":96.18}}
+{"timestamp":"2026-05-19T15:10:03","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":41.39,"threshold":150}}
+{"timestamp":"2026-05-19T15:10:13","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":126.92,"activePid":5888,"networkBytesPerSec":10057.57,"activeApp":"explorer","diskPercent":2212.65,"cpuPercent":93.57}}
+{"timestamp":"2026-05-19T15:10:13","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":126.92,"threshold":150}}
+{"timestamp":"2026-05-19T15:10:22","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":885.12,"activePid":7988,"networkBytesPerSec":3028.73,"activeApp":"windowsterminal","diskPercent":2428.09,"cpuPercent":72.95}}
+{"timestamp":"2026-05-19T15:10:32","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":233.8,"activePid":20192,"networkBytesPerSec":136636.15,"activeApp":"m365copilot","diskPercent":649.2,"cpuPercent":79.03}}
+{"timestamp":"2026-05-19T15:10:40","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":233.88,"activePid":7988,"networkBytesPerSec":991643.9,"activeApp":"windowsterminal","diskPercent":2410.97,"cpuPercent":92.24}}
+{"timestamp":"2026-05-19T15:10:49","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":168.75,"activePid":7988,"networkBytesPerSec":4066.68,"activeApp":"windowsterminal","diskPercent":1437.68,"cpuPercent":84.4}}
+{"timestamp":"2026-05-19T15:10:58","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":920.34,"activePid":20192,"networkBytesPerSec":5354.48,"activeApp":"m365copilot","diskPercent":2023.23,"cpuPercent":60.94}}
+{"timestamp":"2026-05-19T15:11:07","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":321.24,"activePid":20192,"networkBytesPerSec":9255.52,"activeApp":"m365copilot","diskPercent":5876.07,"cpuPercent":98.06}}
+{"timestamp":"2026-05-19T15:11:07","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.06,"threshold":98}}
+{"timestamp":"2026-05-19T15:11:16","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":75.14,"activePid":20192,"networkBytesPerSec":542971.71,"activeApp":"m365copilot","diskPercent":3135.41,"cpuPercent":96.5}}
+{"timestamp":"2026-05-19T15:11:17","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":75.14,"threshold":150}}
+{"timestamp":"2026-05-19T15:11:28","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":176.45,"activePid":20192,"networkBytesPerSec":25199.91,"activeApp":"m365copilot","diskPercent":3187.57,"cpuPercent":97.69}}
+{"timestamp":"2026-05-19T15:11:37","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":378.26,"activePid":20192,"networkBytesPerSec":11001.16,"activeApp":"m365copilot","diskPercent":4461.27,"cpuPercent":83.82}}
+{"timestamp":"2026-05-19T15:11:45","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":248.24,"activePid":20192,"networkBytesPerSec":43523.71,"activeApp":"m365copilot","diskPercent":2433.61,"cpuPercent":92.82}}
+{"timestamp":"2026-05-19T15:11:55","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":195.16,"activePid":20192,"networkBytesPerSec":533890,"activeApp":"m365copilot","diskPercent":1983.43,"cpuPercent":98.64}}
+{"timestamp":"2026-05-19T15:11:55","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.64,"threshold":98}}
+{"timestamp":"2026-05-19T15:12:04","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":586.82,"activePid":20192,"networkBytesPerSec":27853.39,"activeApp":"m365copilot","diskPercent":3160.92,"cpuPercent":94.23}}
+{"timestamp":"2026-05-19T15:12:13","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":418.9,"activePid":20192,"networkBytesPerSec":66640.83,"activeApp":"m365copilot","diskPercent":1842.39,"cpuPercent":59.36}}
+{"timestamp":"2026-05-19T15:12:22","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":332.14,"activePid":20192,"networkBytesPerSec":38735.53,"activeApp":"m365copilot","diskPercent":2926.36,"cpuPercent":99.23}}
+{"timestamp":"2026-05-19T15:12:22","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.23,"threshold":98}}
+{"timestamp":"2026-05-19T15:12:31","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":280.71,"activePid":20192,"networkBytesPerSec":169766.69,"activeApp":"m365copilot","diskPercent":1513.72,"cpuPercent":98.06}}
+{"timestamp":"2026-05-19T15:12:31","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.06,"threshold":98}}
+{"timestamp":"2026-05-19T15:12:40","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":61.61,"activePid":20192,"networkBytesPerSec":4441.2,"activeApp":"m365copilot","diskPercent":2831.14,"cpuPercent":88.74}}
+{"timestamp":"2026-05-19T15:12:40","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":61.61,"threshold":150}}
+{"timestamp":"2026-05-19T15:12:49","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":373.48,"activePid":20192,"networkBytesPerSec":1585660.6,"activeApp":"m365copilot","diskPercent":2555.97,"cpuPercent":69.88}}
+{"timestamp":"2026-05-19T15:12:58","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":225.87,"activePid":20192,"networkBytesPerSec":221098.02,"activeApp":"m365copilot","diskPercent":2275.46,"cpuPercent":97.29}}
+{"timestamp":"2026-05-19T15:13:08","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":103.76,"activePid":36724,"networkBytesPerSec":14155.19,"activeApp":"code","diskPercent":4451.9,"cpuPercent":99.81}}
+{"timestamp":"2026-05-19T15:13:08","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.81,"threshold":98}}
+{"timestamp":"2026-05-19T15:13:08","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":103.76,"threshold":150}}
+{"timestamp":"2026-05-19T15:13:18","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":56.7,"activePid":20192,"networkBytesPerSec":6390.9,"activeApp":"m365copilot","diskPercent":3430.21,"cpuPercent":92.75}}
+{"timestamp":"2026-05-19T15:13:19","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":56.7,"threshold":150}}
+{"timestamp":"2026-05-19T15:13:28","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":55.64,"activePid":20192,"networkBytesPerSec":11240.91,"activeApp":"m365copilot","diskPercent":6537.73,"cpuPercent":91.04}}
+{"timestamp":"2026-05-19T15:13:28","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":55.64,"threshold":150}}
+{"timestamp":"2026-05-19T15:13:37","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":979.41,"activePid":20192,"networkBytesPerSec":555947.11,"activeApp":"m365copilot","diskPercent":1300.66,"cpuPercent":50.12}}
+{"timestamp":"2026-05-19T15:13:46","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":415.73,"activePid":20192,"networkBytesPerSec":696493.24,"activeApp":"m365copilot","diskPercent":3119.19,"cpuPercent":91.48}}
+{"timestamp":"2026-05-19T15:14:01","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":53.41,"activePid":36724,"networkBytesPerSec":163586.15,"activeApp":"code","diskPercent":783.54,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:14:02","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:14:02","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":53.41,"threshold":150}}
+{"timestamp":"2026-05-19T15:14:12","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":173.07,"activePid":36724,"networkBytesPerSec":2308.44,"activeApp":"code","diskPercent":3251.47,"cpuPercent":96.34}}
+{"timestamp":"2026-05-19T15:14:21","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":189.2,"activePid":36724,"networkBytesPerSec":298040.6,"activeApp":"code","diskPercent":2175.07,"cpuPercent":97.5}}
+{"timestamp":"2026-05-19T15:14:30","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":355.75,"activePid":36724,"networkBytesPerSec":7540.01,"activeApp":"code","diskPercent":3151.58,"cpuPercent":92.4}}
+{"timestamp":"2026-05-19T15:14:39","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":310.31,"activePid":36724,"networkBytesPerSec":7013.39,"activeApp":"code","diskPercent":2611.99,"cpuPercent":93.19}}
+{"timestamp":"2026-05-19T15:14:47","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":250.29,"activePid":36724,"networkBytesPerSec":34952.7,"activeApp":"code","diskPercent":3423.5,"cpuPercent":85.6}}
+{"timestamp":"2026-05-19T15:14:56","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":292.47,"activePid":36724,"networkBytesPerSec":25212.87,"activeApp":"code","diskPercent":3322.49,"cpuPercent":90.85}}
+{"timestamp":"2026-05-19T15:15:05","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":112.46,"activePid":36724,"networkBytesPerSec":21323.71,"activeApp":"code","diskPercent":2267.37,"cpuPercent":97.47}}
+{"timestamp":"2026-05-19T15:15:05","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":112.46,"threshold":150}}
+{"timestamp":"2026-05-19T15:15:15","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":197.81,"activePid":36724,"networkBytesPerSec":327932.88,"activeApp":"code","diskPercent":3344.62,"cpuPercent":94.16}}
+{"timestamp":"2026-05-19T15:15:24","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":61.82,"activePid":20192,"networkBytesPerSec":422725.09,"activeApp":"m365copilot","diskPercent":2577.65,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:15:24","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:15:24","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":61.82,"threshold":150}}
+{"timestamp":"2026-05-19T15:15:32","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":944.79,"activePid":20192,"networkBytesPerSec":4470.92,"activeApp":"m365copilot","diskPercent":1215.97,"cpuPercent":88.15}}
+{"timestamp":"2026-05-19T15:15:42","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":474.18,"activePid":20192,"networkBytesPerSec":76895.6,"activeApp":"m365copilot","diskPercent":2883.05,"cpuPercent":84.09}}
+{"timestamp":"2026-05-19T15:15:50","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":373.66,"activePid":36724,"networkBytesPerSec":7094.65,"activeApp":"code","diskPercent":2108.25,"cpuPercent":78.97}}
+{"timestamp":"2026-05-19T15:15:59","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":275.13,"activePid":1928,"networkBytesPerSec":392967.07,"activeApp":"dwm","diskPercent":1931.77,"cpuPercent":62.66}}
+{"timestamp":"2026-05-19T15:16:08","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":185.18,"activePid":36724,"networkBytesPerSec":35247.25,"activeApp":"code","diskPercent":1643.55,"cpuPercent":88.68}}
+{"timestamp":"2026-05-19T15:16:17","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":392.14,"activePid":20192,"networkBytesPerSec":49480.78,"activeApp":"m365copilot","diskPercent":2598.05,"cpuPercent":95.9}}
+{"timestamp":"2026-05-19T15:16:26","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":29.77,"activePid":36724,"networkBytesPerSec":45931.33,"activeApp":"code","diskPercent":7630.59,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:16:26","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:16:26","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":29.77,"threshold":150}}
+{"timestamp":"2026-05-19T15:16:37","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":75.33,"activePid":20192,"networkBytesPerSec":14553.26,"activeApp":"m365copilot","diskPercent":2898.08,"cpuPercent":91.48}}
+{"timestamp":"2026-05-19T15:16:37","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":75.33,"threshold":150}}
+{"timestamp":"2026-05-19T15:16:46","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":874.81,"activePid":20192,"networkBytesPerSec":10651.63,"activeApp":"m365copilot","diskPercent":1560.97,"cpuPercent":93.59}}
+{"timestamp":"2026-05-19T15:16:55","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":449.68,"activePid":20192,"networkBytesPerSec":18572.87,"activeApp":"m365copilot","diskPercent":2381.43,"cpuPercent":70.41}}
+{"timestamp":"2026-05-19T15:17:04","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":337.77,"activePid":20192,"networkBytesPerSec":1999.49,"activeApp":"m365copilot","diskPercent":2992.33,"cpuPercent":99.42}}
+{"timestamp":"2026-05-19T15:17:04","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.42,"threshold":98}}
+{"timestamp":"2026-05-19T15:17:13","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":108.37,"activePid":20192,"networkBytesPerSec":188012.41,"activeApp":"m365copilot","diskPercent":1970.88,"cpuPercent":96.11}}
+{"timestamp":"2026-05-19T15:17:13","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":108.37,"threshold":150}}
+{"timestamp":"2026-05-19T15:17:23","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":16.57,"activePid":20192,"networkBytesPerSec":314772.75,"activeApp":"m365copilot","diskPercent":1266.37,"cpuPercent":98.1}}
+{"timestamp":"2026-05-19T15:17:23","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.1,"threshold":98}}
+{"timestamp":"2026-05-19T15:17:23","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":16.57,"threshold":150}}
+{"timestamp":"2026-05-19T15:17:33","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":342.7,"activePid":20192,"networkBytesPerSec":32770.65,"activeApp":"m365copilot","diskPercent":2473.99,"cpuPercent":96.89}}
+{"timestamp":"2026-05-19T15:17:43","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":290.13,"activePid":20192,"networkBytesPerSec":224539.74,"activeApp":"m365copilot","diskPercent":2115.78,"cpuPercent":90.84}}
+{"timestamp":"2026-05-19T15:17:51","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":254.86,"activePid":20192,"networkBytesPerSec":132182.14,"activeApp":"m365copilot","diskPercent":1289.04,"cpuPercent":80.21}}
+{"timestamp":"2026-05-19T15:18:01","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":179.55,"activePid":20192,"networkBytesPerSec":2202.71,"activeApp":"m365copilot","diskPercent":1513.81,"cpuPercent":83.29}}
+{"timestamp":"2026-05-19T15:18:11","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":92.38,"activePid":36724,"networkBytesPerSec":61588.16,"activeApp":"code","diskPercent":2314.04,"cpuPercent":96.57}}
+{"timestamp":"2026-05-19T15:18:12","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":92.38,"threshold":150}}
+{"timestamp":"2026-05-19T15:18:23","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":2.45,"activePid":36724,"networkBytesPerSec":6017.45,"activeApp":"code","diskPercent":3313.59,"cpuPercent":93.99}}
+{"timestamp":"2026-05-19T15:18:23","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":2.45,"threshold":150}}
+{"timestamp":"2026-05-19T15:18:33","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":128.52,"activePid":36724,"networkBytesPerSec":242026.89,"activeApp":"code","diskPercent":5309.14,"cpuPercent":94.17}}
+{"timestamp":"2026-05-19T15:18:33","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":128.52,"threshold":150}}
+{"timestamp":"2026-05-19T15:18:42","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":168.59,"activePid":36724,"networkBytesPerSec":22129.02,"activeApp":"code","diskPercent":2011.73,"cpuPercent":93.27}}
+{"timestamp":"2026-05-19T15:18:51","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":491.83,"activePid":36724,"networkBytesPerSec":1173.71,"activeApp":"code","diskPercent":4156.09,"cpuPercent":63.49}}
+{"timestamp":"2026-05-19T15:19:00","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":388.72,"activePid":20192,"networkBytesPerSec":11247.7,"activeApp":"m365copilot","diskPercent":2231.19,"cpuPercent":78.26}}
+{"timestamp":"2026-05-19T15:19:08","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":246.88,"activePid":7988,"networkBytesPerSec":2963.86,"activeApp":"windowsterminal","diskPercent":2827.49,"cpuPercent":88.4}}
+{"timestamp":"2026-05-19T15:19:17","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":163.36,"activePid":7988,"networkBytesPerSec":2151.06,"activeApp":"windowsterminal","diskPercent":4523.9,"cpuPercent":81.27}}
+{"timestamp":"2026-05-19T15:19:26","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":957.28,"activePid":20192,"networkBytesPerSec":576126.46,"activeApp":"m365copilot","diskPercent":4497.41,"cpuPercent":60.51}}
+{"timestamp":"2026-05-19T15:19:35","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":849.37,"activePid":7988,"networkBytesPerSec":6986.85,"activeApp":"windowsterminal","diskPercent":2078.85,"cpuPercent":51.53}}
+{"timestamp":"2026-05-19T15:19:43","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":445.23,"activePid":7988,"networkBytesPerSec":195013.88,"activeApp":"windowsterminal","diskPercent":2460.86,"cpuPercent":71.64}}
+{"timestamp":"2026-05-19T15:19:52","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":413.71,"activePid":5888,"networkBytesPerSec":293591.55,"activeApp":"explorer","diskPercent":1929.65,"cpuPercent":89.1}}
+{"timestamp":"2026-05-19T15:20:01","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":147.11,"activePid":4304,"networkBytesPerSec":304267.35,"activeApp":"msedge","diskPercent":2321.06,"cpuPercent":98.07}}
+{"timestamp":"2026-05-19T15:20:01","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.07,"threshold":98}}
+{"timestamp":"2026-05-19T15:20:01","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":147.11,"threshold":150}}
+{"timestamp":"2026-05-19T15:20:10","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":139.26,"activePid":4304,"networkBytesPerSec":3787.13,"activeApp":"msedge","diskPercent":3209.69,"cpuPercent":89.27}}
+{"timestamp":"2026-05-19T15:20:10","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":139.26,"threshold":150}}
+{"timestamp":"2026-05-19T15:20:19","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":1013.1,"activePid":5888,"networkBytesPerSec":23777.54,"activeApp":"explorer","diskPercent":2787.63,"cpuPercent":56.9}}
+{"timestamp":"2026-05-19T15:20:27","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":712.04,"activePid":4304,"networkBytesPerSec":8548.37,"activeApp":"msedge","diskPercent":2083.6,"cpuPercent":57.2}}
+{"timestamp":"2026-05-19T15:20:28","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:20:28","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:20:36","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":312.51,"activePid":20192,"networkBytesPerSec":22752.31,"activeApp":"m365copilot","diskPercent":2959.86,"cpuPercent":74.21}}
+{"timestamp":"2026-05-19T15:20:45","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":236.04,"activePid":20192,"networkBytesPerSec":18009.12,"activeApp":"m365copilot","diskPercent":7655.86,"cpuPercent":98.44}}
+{"timestamp":"2026-05-19T15:20:45","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.44,"threshold":98}}
+{"timestamp":"2026-05-19T15:20:55","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":112.65,"activePid":20192,"networkBytesPerSec":11918.02,"activeApp":"m365copilot","diskPercent":2519.29,"cpuPercent":88.24}}
+{"timestamp":"2026-05-19T15:20:55","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":112.65,"threshold":150}}
+{"timestamp":"2026-05-19T15:21:04","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":550.4,"activePid":11444,"networkBytesPerSec":1737.65,"activeApp":"snippingtool","diskPercent":1979,"cpuPercent":84.4}}
+{"timestamp":"2026-05-19T15:21:13","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":610.75,"activePid":11444,"networkBytesPerSec":365655.02,"activeApp":"snippingtool","diskPercent":4478.79,"cpuPercent":95.97}}
+{"timestamp":"2026-05-19T15:21:22","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":318.33,"activePid":20192,"networkBytesPerSec":37201.12,"activeApp":"m365copilot","diskPercent":3771.2,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:21:22","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:21:31","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":147.09,"activePid":11444,"networkBytesPerSec":378186.5,"activeApp":"snippingtool","diskPercent":5089.58,"cpuPercent":75.74}}
+{"timestamp":"2026-05-19T15:21:31","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":147.09,"threshold":150}}
+{"timestamp":"2026-05-19T15:21:41","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":22.91,"activePid":20192,"networkBytesPerSec":7904.65,"activeApp":"m365copilot","diskPercent":13188.53,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:21:41","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:21:41","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":22.91,"threshold":150}}
+{"timestamp":"2026-05-19T15:21:51","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":5.81,"activePid":20192,"networkBytesPerSec":39150.99,"activeApp":"m365copilot","diskPercent":2616.84,"cpuPercent":93.84}}
+{"timestamp":"2026-05-19T15:21:51","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":5.81,"threshold":150}}
+{"timestamp":"2026-05-19T15:22:01","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":931.41,"activePid":20192,"networkBytesPerSec":141372.96,"activeApp":"m365copilot","diskPercent":2712.24,"cpuPercent":59.78}}
+{"timestamp":"2026-05-19T15:22:09","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":354.67,"activePid":20192,"networkBytesPerSec":94891.73,"activeApp":"m365copilot","diskPercent":3580.91,"cpuPercent":90.26}}
+{"timestamp":"2026-05-19T15:22:18","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":262.96,"activePid":5888,"networkBytesPerSec":20424.34,"activeApp":"explorer","diskPercent":2765.22,"cpuPercent":55.98}}
+{"timestamp":"2026-05-19T15:22:27","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":305.14,"activePid":7988,"networkBytesPerSec":4606.88,"activeApp":"windowsterminal","diskPercent":2887.42,"cpuPercent":59.42}}
+{"timestamp":"2026-05-19T15:22:35","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":276.5,"activePid":7988,"networkBytesPerSec":358051.37,"activeApp":"windowsterminal","diskPercent":3701.61,"cpuPercent":65.49}}
+{"timestamp":"2026-05-19T15:22:44","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":359.82,"activePid":20192,"networkBytesPerSec":50903.3,"activeApp":"m365copilot","diskPercent":1297.13,"cpuPercent":89.99}}
+{"timestamp":"2026-05-19T15:22:53","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":272.11,"activePid":20192,"networkBytesPerSec":12867.53,"activeApp":"m365copilot","diskPercent":2474.45,"cpuPercent":67.54}}
+{"timestamp":"2026-05-19T15:23:01","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":171.6,"activePid":20192,"networkBytesPerSec":7699.67,"activeApp":"m365copilot","diskPercent":1709.86,"cpuPercent":83.3}}
+{"timestamp":"2026-05-19T15:23:10","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":101.12,"activePid":29752,"networkBytesPerSec":6264.58,"activeApp":"shellexperiencehost","diskPercent":3008.5,"cpuPercent":79.65}}
+{"timestamp":"2026-05-19T15:23:10","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":101.12,"threshold":150}}
+{"timestamp":"2026-05-19T15:23:19","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":364.53,"activePid":20192,"networkBytesPerSec":359556.74,"activeApp":"m365copilot","diskPercent":2101.72,"cpuPercent":80.7}}
+{"timestamp":"2026-05-19T15:23:28","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":363.08,"activePid":5888,"networkBytesPerSec":3768.31,"activeApp":"explorer","diskPercent":1590.33,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:23:29","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:23:38","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":253.94,"activePid":35104,"networkBytesPerSec":369992.36,"activeApp":"taskmgr","diskPercent":2859.94,"cpuPercent":98.45}}
+{"timestamp":"2026-05-19T15:23:38","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.45,"threshold":98}}
+{"timestamp":"2026-05-19T15:23:47","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":187.07,"activePid":5888,"networkBytesPerSec":28588.76,"activeApp":"explorer","diskPercent":7679.18,"cpuPercent":77.46}}
+{"timestamp":"2026-05-19T15:24:00","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":57.03,"activePid":4304,"networkBytesPerSec":149518.74,"activeApp":"msedge","diskPercent":3857.14,"cpuPercent":98.66}}
+{"timestamp":"2026-05-19T15:24:00","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.66,"threshold":98}}
+{"timestamp":"2026-05-19T15:24:00","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":57.03,"threshold":150}}
+{"timestamp":"2026-05-19T15:24:09","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":767.88,"activePid":4304,"networkBytesPerSec":91860.52,"activeApp":"msedge","diskPercent":2567.11,"cpuPercent":99.81}}
+{"timestamp":"2026-05-19T15:24:09","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.81,"threshold":98}}
+{"timestamp":"2026-05-19T15:24:19","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":558.57,"activePid":23612,"networkBytesPerSec":55570.35,"activeApp":"m365copilot","diskPercent":174.92,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:24:19","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:24:27","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":367.35,"activePid":4304,"networkBytesPerSec":29570.75,"activeApp":"msedge","diskPercent":4590.23,"cpuPercent":73.15}}
+{"timestamp":"2026-05-19T15:24:28","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:24:28","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:24:37","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":337.23,"activePid":4304,"networkBytesPerSec":14679.83,"activeApp":"msedge","diskPercent":1898.26,"cpuPercent":62.25}}
+{"timestamp":"2026-05-19T15:24:37","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:24:37","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:24:45","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":650.44,"activePid":5888,"networkBytesPerSec":3020.32,"activeApp":"explorer","diskPercent":1347.42,"cpuPercent":63.18}}
+{"timestamp":"2026-05-19T15:24:55","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":424.34,"activePid":31524,"networkBytesPerSec":149604.47,"activeApp":"searchhost","diskPercent":756.96,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:24:55","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:25:03","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":349.43,"activePid":31524,"networkBytesPerSec":528851.16,"activeApp":"searchhost","diskPercent":1359.97,"cpuPercent":89.39}}
+{"timestamp":"2026-05-19T15:25:12","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":323.96,"activePid":31524,"networkBytesPerSec":28116.64,"activeApp":"searchhost","diskPercent":1205.83,"cpuPercent":74.11}}
+{"timestamp":"2026-05-19T15:25:21","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":279.67,"activePid":31524,"networkBytesPerSec":49906.91,"activeApp":"searchhost","diskPercent":1201.54,"cpuPercent":84.05}}
+{"timestamp":"2026-05-19T15:25:33","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":320.43,"activePid":36524,"networkBytesPerSec":15390.35,"activeApp":"m365copilot","diskPercent":867.96,"cpuPercent":96.54}}
+{"timestamp":"2026-05-19T15:25:45","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":376.8,"activePid":35104,"networkBytesPerSec":163802.63,"activeApp":"taskmgr","diskPercent":725.3,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:25:46","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:25:56","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":18.11,"activePid":35104,"networkBytesPerSec":225595.29,"activeApp":"taskmgr","diskPercent":1061.85,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:25:56","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:25:56","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":18.11,"threshold":150}}
+{"timestamp":"2026-05-19T15:26:06","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":899.18,"activePid":35104,"networkBytesPerSec":101889.55,"activeApp":"taskmgr","diskPercent":1522.58,"cpuPercent":86.3}}
+{"timestamp":"2026-05-19T15:26:14","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":486.89,"activePid":35104,"networkBytesPerSec":8459.24,"activeApp":"taskmgr","diskPercent":5845.77,"cpuPercent":89.68}}
+{"timestamp":"2026-05-19T15:26:23","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":359.72,"activePid":35104,"networkBytesPerSec":14201.73,"activeApp":"taskmgr","diskPercent":1937.14,"cpuPercent":70.61}}
+{"timestamp":"2026-05-19T15:26:32","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":338.93,"activePid":35104,"networkBytesPerSec":165890.02,"activeApp":"taskmgr","diskPercent":1355.43,"cpuPercent":68.81}}
+{"timestamp":"2026-05-19T15:26:40","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":292.72,"activePid":35104,"networkBytesPerSec":22655.96,"activeApp":"taskmgr","diskPercent":1322.82,"cpuPercent":79.04}}
+{"timestamp":"2026-05-19T15:26:49","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":66.88,"activePid":35104,"networkBytesPerSec":161834.83,"activeApp":"taskmgr","diskPercent":1371.83,"cpuPercent":88.21}}
+{"timestamp":"2026-05-19T15:26:49","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":66.88,"threshold":150}}
+{"timestamp":"2026-05-19T15:26:58","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":879.07,"activePid":35104,"networkBytesPerSec":319330.08,"activeApp":"taskmgr","diskPercent":1886.91,"cpuPercent":46.1}}
+{"timestamp":"2026-05-19T15:27:07","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":501.34,"activePid":35104,"networkBytesPerSec":6158.31,"activeApp":"taskmgr","diskPercent":1245.97,"cpuPercent":59.24}}
+{"timestamp":"2026-05-19T15:27:16","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":377.27,"activePid":35104,"networkBytesPerSec":18140.46,"activeApp":"taskmgr","diskPercent":2113.35,"cpuPercent":82.14}}
+{"timestamp":"2026-05-19T15:27:24","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":260.55,"activePid":35104,"networkBytesPerSec":14606.27,"activeApp":"taskmgr","diskPercent":1453.55,"cpuPercent":86.47}}
+{"timestamp":"2026-05-19T15:27:33","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":257.74,"activePid":35104,"networkBytesPerSec":224270.15,"activeApp":"taskmgr","diskPercent":3035.23,"cpuPercent":75.42}}
+{"timestamp":"2026-05-19T15:27:42","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":397.5,"activePid":35104,"networkBytesPerSec":194947.1,"activeApp":"taskmgr","diskPercent":1214.63,"cpuPercent":94.79}}
+{"timestamp":"2026-05-19T15:27:51","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":156.41,"activePid":36524,"networkBytesPerSec":185886.16,"activeApp":"m365copilot","diskPercent":781.62,"cpuPercent":76.08}}
+{"timestamp":"2026-05-19T15:27:59","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":696.82,"activePid":36524,"networkBytesPerSec":18537.47,"activeApp":"m365copilot","diskPercent":2145.19,"cpuPercent":54.94}}
+{"timestamp":"2026-05-19T15:28:08","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":858.28,"activePid":36524,"networkBytesPerSec":521119.12,"activeApp":"m365copilot","diskPercent":13525.93,"cpuPercent":59.93}}
+{"timestamp":"2026-05-19T15:28:17","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":560.63,"activePid":36524,"networkBytesPerSec":28835.43,"activeApp":"m365copilot","diskPercent":3865.77,"cpuPercent":67.41}}
+{"timestamp":"2026-05-19T15:28:26","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":453.93,"activePid":4304,"networkBytesPerSec":1094.31,"activeApp":"msedge","diskPercent":2894.82,"cpuPercent":56.49}}
+{"timestamp":"2026-05-19T15:28:26","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:28:26","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:28:35","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":138.16,"activePid":36524,"networkBytesPerSec":8294.06,"activeApp":"m365copilot","diskPercent":1460.28,"cpuPercent":80.18}}
+{"timestamp":"2026-05-19T15:28:35","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":138.16,"threshold":150}}
+{"timestamp":"2026-05-19T15:28:45","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":66.91,"activePid":36724,"networkBytesPerSec":462964.46,"activeApp":"code","diskPercent":3803.11,"cpuPercent":95.58}}
+{"timestamp":"2026-05-19T15:28:45","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":66.91,"threshold":150}}
+{"timestamp":"2026-05-19T15:28:55","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":61.19,"activePid":36724,"networkBytesPerSec":25424.7,"activeApp":"code","diskPercent":2492.41,"cpuPercent":74.8}}
+{"timestamp":"2026-05-19T15:28:55","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":61.19,"threshold":150}}
+{"timestamp":"2026-05-19T15:29:04","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":817.42,"activePid":36524,"networkBytesPerSec":16107.33,"activeApp":"m365copilot","diskPercent":14334.29,"cpuPercent":55.08}}
+{"timestamp":"2026-05-19T15:29:13","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":470.02,"activePid":36524,"networkBytesPerSec":247584.58,"activeApp":"m365copilot","diskPercent":3207.29,"cpuPercent":93.64}}
+{"timestamp":"2026-05-19T15:29:21","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":311.1,"activePid":36524,"networkBytesPerSec":682230.76,"activeApp":"m365copilot","diskPercent":1762.14,"cpuPercent":73.73}}
+{"timestamp":"2026-05-19T15:29:30","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":88.82,"activePid":36524,"networkBytesPerSec":33935.96,"activeApp":"m365copilot","diskPercent":1449.19,"cpuPercent":77.6}}
+{"timestamp":"2026-05-19T15:29:30","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":88.82,"threshold":150}}
+{"timestamp":"2026-05-19T15:29:39","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":1022.02,"activePid":36524,"networkBytesPerSec":34404.15,"activeApp":"m365copilot","diskPercent":1388.64,"cpuPercent":41.91}}
+{"timestamp":"2026-05-19T15:29:48","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":676.7,"activePid":5888,"networkBytesPerSec":16485.08,"activeApp":"explorer","diskPercent":1598.59,"cpuPercent":43.2}}
+{"timestamp":"2026-05-19T15:29:57","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":258.09,"activePid":4304,"networkBytesPerSec":11071.18,"activeApp":"msedge","diskPercent":1996.14,"cpuPercent":79.53}}
+{"timestamp":"2026-05-19T15:29:57","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:29:57","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:30:06","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":43.51,"activePid":4304,"networkBytesPerSec":1831381.81,"activeApp":"msedge","diskPercent":2704.05,"cpuPercent":99.81}}
+{"timestamp":"2026-05-19T15:30:06","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.81,"threshold":98}}
+{"timestamp":"2026-05-19T15:30:06","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":43.51,"threshold":150}}
+{"timestamp":"2026-05-19T15:30:16","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":95.73,"activePid":4304,"networkBytesPerSec":3164.25,"activeApp":"msedge","diskPercent":1348.45,"cpuPercent":76.95}}
+{"timestamp":"2026-05-19T15:30:16","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":95.73,"threshold":150}}
+{"timestamp":"2026-05-19T15:30:25","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":738.57,"activePid":4304,"networkBytesPerSec":44150.43,"activeApp":"msedge","diskPercent":2045.08,"cpuPercent":45.24}}
+{"timestamp":"2026-05-19T15:30:25","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:30:25","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:30:34","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":241.75,"activePid":4304,"networkBytesPerSec":95319.38,"activeApp":"msedge","diskPercent":3422.27,"cpuPercent":87.64}}
+{"timestamp":"2026-05-19T15:30:34","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:30:34","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:30:44","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":400.89,"activePid":4304,"networkBytesPerSec":1104929.8,"activeApp":"msedge","diskPercent":3484.7,"cpuPercent":99.42}}
+{"timestamp":"2026-05-19T15:30:44","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.42,"threshold":98}}
+{"timestamp":"2026-05-19T15:30:52","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":248.21,"activePid":4304,"networkBytesPerSec":353338.45,"activeApp":"msedge","diskPercent":3111.94,"cpuPercent":58.45}}
+{"timestamp":"2026-05-19T15:30:53","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:30:53","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:31:01","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":343,"activePid":4304,"networkBytesPerSec":2868.82,"activeApp":"msedge","diskPercent":2193.89,"cpuPercent":89.37}}
+{"timestamp":"2026-05-19T15:31:01","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:31:02","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:31:10","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":242.27,"activePid":4304,"networkBytesPerSec":21762.33,"activeApp":"msedge","diskPercent":1267.17,"cpuPercent":78.65}}
+{"timestamp":"2026-05-19T15:31:10","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:31:10","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:31:19","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":339.92,"activePid":4304,"networkBytesPerSec":34497.37,"activeApp":"msedge","diskPercent":1566.31,"cpuPercent":65.74}}
+{"timestamp":"2026-05-19T15:31:19","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:31:19","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:31:28","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":743.69,"activePid":4304,"networkBytesPerSec":14391.02,"activeApp":"msedge","diskPercent":1430.07,"cpuPercent":78.3}}
+{"timestamp":"2026-05-19T15:31:28","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:31:28","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:31:37","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":295.55,"activePid":4304,"networkBytesPerSec":10664.12,"activeApp":"msedge","diskPercent":1927.69,"cpuPercent":91.65}}
+{"timestamp":"2026-05-19T15:31:37","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:31:37","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:31:50","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":45.41,"activePid":4304,"networkBytesPerSec":48509.74,"activeApp":"msedge","diskPercent":553.53,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:31:51","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:31:51","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":45.41,"threshold":150}}
+{"timestamp":"2026-05-19T15:32:02","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":10.4,"activePid":4304,"networkBytesPerSec":550315.87,"activeApp":"msedge","diskPercent":3316.88,"cpuPercent":86.09}}
+{"timestamp":"2026-05-19T15:32:02","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":10.4,"threshold":150}}
+{"timestamp":"2026-05-19T15:32:11","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":31.34,"activePid":4304,"networkBytesPerSec":8025.38,"activeApp":"msedge","diskPercent":3059.66,"cpuPercent":92.44}}
+{"timestamp":"2026-05-19T15:32:11","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":31.34,"threshold":150}}
+{"timestamp":"2026-05-19T15:32:20","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":332.54,"activePid":4304,"networkBytesPerSec":100102.63,"activeApp":"msedge","diskPercent":2170.48,"cpuPercent":71.83}}
+{"timestamp":"2026-05-19T15:32:20","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:32:20","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:32:29","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":17.92,"activePid":4304,"networkBytesPerSec":150745.18,"activeApp":"msedge","diskPercent":3744.41,"cpuPercent":85.78}}
+{"timestamp":"2026-05-19T15:32:29","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":17.92,"threshold":150}}
+{"timestamp":"2026-05-19T15:32:38","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":883.54,"activePid":4304,"networkBytesPerSec":10640.59,"activeApp":"msedge","diskPercent":1831.81,"cpuPercent":69.59}}
+{"timestamp":"2026-05-19T15:32:39","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:32:39","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:32:47","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":422.18,"activePid":4304,"networkBytesPerSec":394555.52,"activeApp":"msedge","diskPercent":3275.39,"cpuPercent":51.55}}
+{"timestamp":"2026-05-19T15:32:47","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:32:47","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:32:56","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":303.28,"activePid":4304,"networkBytesPerSec":25305.38,"activeApp":"msedge","diskPercent":1090.86,"cpuPercent":79.57}}
+{"timestamp":"2026-05-19T15:32:56","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:32:56","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:33:05","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":246.62,"activePid":4304,"networkBytesPerSec":9441.75,"activeApp":"msedge","diskPercent":4524.58,"cpuPercent":78.05}}
+{"timestamp":"2026-05-19T15:33:05","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:33:05","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:33:14","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":216.83,"activePid":4304,"networkBytesPerSec":17188.4,"activeApp":"msedge","diskPercent":2675.43,"cpuPercent":78.59}}
+{"timestamp":"2026-05-19T15:33:14","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:33:14","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:33:23","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":202.86,"activePid":4304,"networkBytesPerSec":294371.43,"activeApp":"msedge","diskPercent":1931.32,"cpuPercent":61.61}}
+{"timestamp":"2026-05-19T15:33:23","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:33:23","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:33:31","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":165.69,"activePid":4304,"networkBytesPerSec":19805.26,"activeApp":"msedge","diskPercent":2034.13,"cpuPercent":59.92}}
+{"timestamp":"2026-05-19T15:33:32","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:33:32","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:33:40","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":107.82,"activePid":4304,"networkBytesPerSec":21194.98,"activeApp":"msedge","diskPercent":1948.33,"cpuPercent":61.49}}
+{"timestamp":"2026-05-19T15:33:40","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":107.82,"threshold":150}}
+{"timestamp":"2026-05-19T15:33:49","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":697.78,"activePid":4304,"networkBytesPerSec":442195.52,"activeApp":"msedge","diskPercent":990.45,"cpuPercent":81.4}}
+{"timestamp":"2026-05-19T15:33:49","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:33:49","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:33:58","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":339.73,"activePid":4304,"networkBytesPerSec":54218.96,"activeApp":"msedge","diskPercent":1979.86,"cpuPercent":79.53}}
+{"timestamp":"2026-05-19T15:33:58","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:33:58","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:34:07","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":212.02,"activePid":4304,"networkBytesPerSec":11127.81,"activeApp":"msedge","diskPercent":1673.32,"cpuPercent":50.42}}
+{"timestamp":"2026-05-19T15:34:07","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:34:07","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:34:15","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":139.84,"activePid":4304,"networkBytesPerSec":19191.51,"activeApp":"msedge","diskPercent":1341.82,"cpuPercent":64.29}}
+{"timestamp":"2026-05-19T15:34:15","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":139.84,"threshold":150}}
+{"timestamp":"2026-05-19T15:34:24","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":186.74,"activePid":4304,"networkBytesPerSec":15427.28,"activeApp":"msedge","diskPercent":1379.76,"cpuPercent":62.25}}
+{"timestamp":"2026-05-19T15:34:24","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:34:25","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:34:33","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":185.2,"activePid":4304,"networkBytesPerSec":23300.52,"activeApp":"msedge","diskPercent":1375.73,"cpuPercent":57.08}}
+{"timestamp":"2026-05-19T15:34:33","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:34:33","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:34:42","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":141.62,"activePid":4304,"networkBytesPerSec":3344.78,"activeApp":"msedge","diskPercent":2128.69,"cpuPercent":63.62}}
+{"timestamp":"2026-05-19T15:34:42","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":141.62,"threshold":150}}
+{"timestamp":"2026-05-19T15:34:51","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":67.04,"activePid":4304,"networkBytesPerSec":1158.47,"activeApp":"msedge","diskPercent":3286.93,"cpuPercent":92.3}}
+{"timestamp":"2026-05-19T15:34:51","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":67.04,"threshold":150}}
+{"timestamp":"2026-05-19T15:35:00","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":399.87,"activePid":4304,"networkBytesPerSec":445523.8,"activeApp":"msedge","diskPercent":3823.93,"cpuPercent":76.12}}
+{"timestamp":"2026-05-19T15:35:00","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:35:00","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:35:09","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":272.91,"activePid":4304,"networkBytesPerSec":37334.89,"activeApp":"msedge","diskPercent":1030.16,"cpuPercent":48.95}}
+{"timestamp":"2026-05-19T15:35:09","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:35:09","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:35:18","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":273.12,"activePid":4304,"networkBytesPerSec":1899.23,"activeApp":"msedge","diskPercent":1196.68,"cpuPercent":40.47}}
+{"timestamp":"2026-05-19T15:35:18","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:35:18","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:35:26","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":960.76,"activePid":4304,"networkBytesPerSec":16345.7,"activeApp":"msedge","diskPercent":1129.84,"cpuPercent":47.01}}
+{"timestamp":"2026-05-19T15:35:26","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:35:27","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:35:35","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":527.29,"activePid":4304,"networkBytesPerSec":9873.92,"activeApp":"msedge","diskPercent":1189.23,"cpuPercent":53.6}}
+{"timestamp":"2026-05-19T15:35:35","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:35:35","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:35:44","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":358.69,"activePid":4304,"networkBytesPerSec":21443.25,"activeApp":"msedge","diskPercent":968.49,"cpuPercent":54.88}}
+{"timestamp":"2026-05-19T15:35:44","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:35:44","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:35:53","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":259.68,"activePid":4304,"networkBytesPerSec":192147.75,"activeApp":"msedge","diskPercent":1210.34,"cpuPercent":78.39}}
+{"timestamp":"2026-05-19T15:35:53","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:35:53","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:36:02","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":139.29,"activePid":4304,"networkBytesPerSec":34269.52,"activeApp":"msedge","diskPercent":1826.95,"cpuPercent":64.21}}
+{"timestamp":"2026-05-19T15:36:02","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":139.29,"threshold":150}}
+{"timestamp":"2026-05-19T15:36:11","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":288.47,"activePid":4304,"networkBytesPerSec":219106.08,"activeApp":"msedge","diskPercent":2002.37,"cpuPercent":87.28}}
+{"timestamp":"2026-05-19T15:36:11","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:36:12","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:36:20","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":325.91,"activePid":4304,"networkBytesPerSec":42356.43,"activeApp":"msedge","diskPercent":2231.68,"cpuPercent":94.98}}
+{"timestamp":"2026-05-19T15:36:20","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:36:20","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:36:30","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":345.37,"activePid":4304,"networkBytesPerSec":63012.05,"activeApp":"msedge","diskPercent":831.91,"cpuPercent":99.47}}
+{"timestamp":"2026-05-19T15:36:30","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.47,"threshold":98}}
+{"timestamp":"2026-05-19T15:36:38","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":344.15,"activePid":4304,"networkBytesPerSec":297107.75,"activeApp":"msedge","diskPercent":1591.42,"cpuPercent":51.31}}
+{"timestamp":"2026-05-19T15:36:39","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:36:39","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:36:48","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":191.96,"activePid":4304,"networkBytesPerSec":32236.55,"activeApp":"msedge","diskPercent":1591.42,"cpuPercent":96.71}}
+{"timestamp":"2026-05-19T15:36:48","level":"WARN","message":"Desired process no longer exists (PID 4304)","data":{"process":"msedge","pid":4304}}
+{"timestamp":"2026-05-19T15:36:48","level":"WARN","message":"Desired process no longer exists (PID 21360)","data":{"process":"OneDrive","pid":21360}}
+{"timestamp":"2026-05-19T15:36:57","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":229.39,"activePid":4304,"networkBytesPerSec":81241.72,"activeApp":"msedge","diskPercent":1372.1,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:36:57","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:37:07","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":182.08,"activePid":4304,"networkBytesPerSec":32757.03,"activeApp":"msedge","diskPercent":1748.25,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:37:07","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:37:16","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":415.33,"activePid":4304,"networkBytesPerSec":1188.97,"activeApp":"msedge","diskPercent":5981.88,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:37:16","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:37:25","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":330.25,"activePid":4304,"networkBytesPerSec":11424.83,"activeApp":"msedge","diskPercent":4057.89,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:37:25","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:37:34","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":132.95,"activePid":4304,"networkBytesPerSec":72737.68,"activeApp":"msedge","diskPercent":4133.69,"cpuPercent":100}}
+{"timestamp":"2026-05-19T15:37:34","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T15:37:34","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":132.95,"threshold":150}}
+{"timestamp":"2026-05-19T15:37:46","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":0,"activePid":16796,"networkBytesPerSec":76423.37,"activeApp":"ms-teams","diskPercent":1957,"cpuPercent":93.39}}
+{"timestamp":"2026-05-19T15:37:46","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":0,"threshold":150}}
+{"timestamp":"2026-05-19T15:37:57","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":236.49,"activePid":16796,"networkBytesPerSec":32888.34,"activeApp":"ms-teams","diskPercent":6606.4,"cpuPercent":98.26}}
+{"timestamp":"2026-05-19T15:37:57","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.26,"threshold":98}}
+{"timestamp":"2026-05-19T15:38:06","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":337.1,"activePid":16796,"networkBytesPerSec":15879.57,"activeApp":"ms-teams","diskPercent":11500.18,"cpuPercent":84.1}}
+{"timestamp":"2026-05-19T15:38:16","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":15.15,"activePid":24204,"networkBytesPerSec":22651.04,"activeApp":"chrome","diskPercent":12283.77,"cpuPercent":98.64}}
+{"timestamp":"2026-05-19T15:38:16","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":98.64,"threshold":98}}
+{"timestamp":"2026-05-19T15:38:16","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":15.15,"threshold":150}}
+{"timestamp":"2026-05-19T15:38:25","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":5.01,"activePid":16796,"networkBytesPerSec":12097.98,"activeApp":"ms-teams","diskPercent":10975.97,"cpuPercent":70.99}}
+{"timestamp":"2026-05-19T15:38:26","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":5.01,"threshold":150}}
+{"timestamp":"2026-05-19T15:38:37","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":9.38,"activePid":16796,"networkBytesPerSec":10083.87,"activeApp":"ms-teams","diskPercent":5274.81,"cpuPercent":75.01}}
+{"timestamp":"2026-05-19T15:38:37","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":9.38,"threshold":150}}
+{"timestamp":"2026-05-19T15:38:47","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":28.4,"activePid":5888,"networkBytesPerSec":9019.83,"activeApp":"explorer","diskPercent":7131.18,"cpuPercent":92.95}}
+{"timestamp":"2026-05-19T15:38:47","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":28.4,"threshold":150}}
+{"timestamp":"2026-05-19T15:38:57","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":57.06,"activePid":16796,"networkBytesPerSec":18833.29,"activeApp":"ms-teams","diskPercent":19871.97,"cpuPercent":87.44}}
+{"timestamp":"2026-05-19T15:38:57","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":57.06,"threshold":150}}
+{"timestamp":"2026-05-19T15:39:06","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":20.7,"activePid":16796,"networkBytesPerSec":3449.56,"activeApp":"ms-teams","diskPercent":8699.57,"cpuPercent":73.82}}
+{"timestamp":"2026-05-19T15:39:06","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":20.7,"threshold":150}}
+{"timestamp":"2026-05-19T15:39:16","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":13.32,"activePid":16796,"networkBytesPerSec":20221.74,"activeApp":"ms-teams","diskPercent":11990.06,"cpuPercent":57.6}}
+{"timestamp":"2026-05-19T15:39:16","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":13.32,"threshold":150}}
+{"timestamp":"2026-05-19T15:39:25","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":228.42,"activePid":16796,"networkBytesPerSec":21988.49,"activeApp":"ms-teams","diskPercent":4826.35,"cpuPercent":76.09}}
+{"timestamp":"2026-05-19T15:39:34","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":275.49,"activePid":16796,"networkBytesPerSec":16153.64,"activeApp":"ms-teams","diskPercent":3800.34,"cpuPercent":88.34}}
+{"timestamp":"2026-05-19T15:39:44","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":1.15,"activePid":16796,"networkBytesPerSec":30821.21,"activeApp":"ms-teams","diskPercent":5917.59,"cpuPercent":97.48}}
+{"timestamp":"2026-05-19T15:39:44","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":1.15,"threshold":150}}
+{"timestamp":"2026-05-19T15:39:54","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":66.41,"activePid":16796,"networkBytesPerSec":24444.12,"activeApp":"ms-teams","diskPercent":13629.42,"cpuPercent":82.68}}
+{"timestamp":"2026-05-19T15:39:54","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":66.41,"threshold":150}}
+{"timestamp":"2026-05-19T15:40:04","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":25.07,"activePid":5888,"networkBytesPerSec":13105.51,"activeApp":"explorer","diskPercent":11890.22,"cpuPercent":78.5}}
+{"timestamp":"2026-05-19T15:40:04","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":25.07,"threshold":150}}
+{"timestamp":"2026-05-19T15:40:14","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":11.83,"activePid":36724,"networkBytesPerSec":11344,"activeApp":"code","diskPercent":7699,"cpuPercent":75.41}}
+{"timestamp":"2026-05-19T15:40:14","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":11.83,"threshold":150}}
+{"timestamp":"2026-05-19T15:40:25","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":13.3,"activePid":36524,"networkBytesPerSec":8109.92,"activeApp":"m365copilot","diskPercent":2888.89,"cpuPercent":68.72}}
+{"timestamp":"2026-05-19T15:40:25","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":13.3,"threshold":150}}
+{"timestamp":"2026-05-19T20:35:49","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":0,"activePid":5888,"networkBytesPerSec":12511.86,"activeApp":"explorer","diskPercent":12351.22,"cpuPercent":44.7}}
+{"timestamp":"2026-05-19T20:35:49","level":"WARN","message":"Failsafe triggered: RAM too low","data":{"freeRamMB":0,"threshold":150}}
+{"timestamp":"2026-05-19T20:36:00","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":438.33,"activePid":5888,"networkBytesPerSec":14478.98,"activeApp":"explorer","diskPercent":691.59,"cpuPercent":100}}
+{"timestamp":"2026-05-19T20:36:00","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T20:36:09","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":425.62,"activePid":5888,"networkBytesPerSec":1540103.12,"activeApp":"explorer","diskPercent":1399.03,"cpuPercent":100}}
+{"timestamp":"2026-05-19T20:36:09","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T20:36:19","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":466.81,"activePid":30532,"networkBytesPerSec":905299.29,"activeApp":"taskmgr","diskPercent":877.29,"cpuPercent":99.04}}
+{"timestamp":"2026-05-19T20:36:19","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.04,"threshold":98}}
+{"timestamp":"2026-05-19T20:36:28","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":379.64,"activePid":30532,"networkBytesPerSec":95683.92,"activeApp":"taskmgr","diskPercent":764.52,"cpuPercent":100}}
+{"timestamp":"2026-05-19T20:36:28","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T20:36:37","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":450.04,"activePid":30532,"networkBytesPerSec":40800.84,"activeApp":"taskmgr","diskPercent":703.45,"cpuPercent":100}}
+{"timestamp":"2026-05-19T20:36:37","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T20:36:46","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":408.89,"activePid":30532,"networkBytesPerSec":6546.91,"activeApp":"taskmgr","diskPercent":841.58,"cpuPercent":99.03}}
+{"timestamp":"2026-05-19T20:36:46","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":99.03,"threshold":98}}
+{"timestamp":"2026-05-19T20:36:55","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":387.47,"activePid":5888,"networkBytesPerSec":1245.78,"activeApp":"explorer","diskPercent":114.69,"cpuPercent":100}}
+{"timestamp":"2026-05-19T20:36:56","level":"WARN","message":"Failsafe triggered: CPU too high","data":{"cpuPercent":100,"threshold":98}}
+{"timestamp":"2026-05-19T20:37:08","level":"INFO","message":"Heartbeat + Metrics","data":{"freeRamMB":375.29,"activePid":22924,"networkBytesPerSec":24971.82,"activeApp":"chrome","diskPercent":672.21,"cpuPercent":100}}
